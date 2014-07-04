@@ -1,0 +1,21 @@
+svg{
+	height:auto;
+	width:100%;
+}
+
+input{
+	width:100%;
+}
+
+#wrapper{
+	max-width:960px;
+	margin:0 auto;
+}
+
+svg circle{
+	cursor:pointer;
+}
+
+svg circle:hover{
+	opacity:0.5;
+}
