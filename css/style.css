@@ -1,21 +1,54 @@
+body{
+	padding-top:50px;
+	text-align: center;
+}
+*{
+	box-sizing: border-box;
+}
+
 svg{
 	height:auto;
-	width:100%;
 }
 
 input{
 	width:100%;
+	margin-bottom:20px;
 }
 
 #wrapper{
-	max-width:960px;
+	/*max-width:960px;*/
 	margin:0 auto;
+	font-family:TextSans;
 }
 
-svg circle{
+.shot{
 	cursor:pointer;
 }
 
-svg circle:hover{
+.shot:hover{
 	opacity:0.5;
+}
+.matchesContainer{
+	width:100%;
+}
+.shotsContainer{
+	position: relative;
+}
+.shotsContainer h1{
+	position:absolute;
+	top:180px;
+	margin:0;
+	color:#fff;
+	left:460px;
+	text-align: center;
+	width:40px;
+}
+.match{
+	width:33%;
+	display: inline-block;
+	padding:10px;
+}
+.match svg{
+	width:100%;
+	height:100%;
 }
