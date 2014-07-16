@@ -9,7 +9,8 @@
 
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/newfonts.css">
+        <!-- <link rel="stylesheet" href="css/newfonts.css"> -->
+        <link type="text/css" href="http://assets.guim.co.uk/stylesheets/webfonts.d35b9e8c33865a46b3231a20c9f960b0.css" rel="stylesheet" media="screen" />
         <link rel="stylesheet" href="css/style.css">
 
         <script src="js/vendor/d3.min.js"></script>
@@ -19,12 +20,17 @@
         <script src="js/main.js"></script>
     </head>
     <body>
-    <div id="wrapper">
+    <div id="wrapper" class="closeupView">
 
-        
+        <h1 id="title">Every goal scored at the 2014 World Cup mapped: click on the dots for more info</h1>
         <div class="shotsContainer">
-            <div class="details"></div>
+            
         </div>
+        <div class="details"></div>
     </div>
+    <script src="//interactive.guim.co.uk/libs/iframe-messenger/iframeMessenger.js"></script>
+    <script>
+        iframeMessenger.enableAutoResize();
+    </script>
     </body>
 </html>

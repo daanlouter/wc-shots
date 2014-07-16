@@ -1,0 +1,1665 @@
+"DATE","MINUTE","PLAYER","TEAM","OPPOSITION","Shot","X","Y"
+12/06/2014,1,"Kovacic","Croatia","Brazil","Miss",76.2,72.8
+12/06/2014,6,"David Luiz","Brazil","Croatia","Attempt Saved",90.9,52.6
+12/06/2014,7,"Olic","Croatia","Brazil","Miss",91.3,57.5
+12/06/2014,9,"Paulinho","Brazil","Croatia","Blocked",73.1,39.8
+12/06/2014,11,"Jelavic","Croatia","Brazil","Miss",90.9,57.3
+12/06/2014,11,"Marcelo","Croatia","Brazil","Goal",93.9,50.9
+12/06/2014,16,"Neymar","Brazil","Croatia","Blocked",76.9,42.7
+12/06/2014,21,"Paulinho","Brazil","Croatia","Attempt Saved",91.6,32
+12/06/2014,22,"Oscar","Brazil","Croatia","Attempt Saved",77.2,36.5
+12/06/2014,22,"Hulk","Brazil","Croatia","Miss",94.9,73.6
+12/06/2014,29,"Neymar","Brazil","Croatia","Goal",76.9,56.1
+12/06/2014,29,"Jelavic","Croatia","Brazil","Attempt Saved",91.9,38.4
+12/06/2014,41,"Dani Alves","Brazil","Croatia","Blocked",78.5,25.8
+12/06/2014,42,"Neymar","Brazil","Croatia","Blocked",78.1,32.2
+12/06/2014,45,"Hulk","Brazil","Croatia","Miss",90.7,28.9
+12/06/2014,56,"Perisic","Croatia","Brazil","Miss",75.2,38.2
+12/06/2014,67,"Dani Alves","Brazil","Croatia","Miss",71.9,52.6
+12/06/2014,71,"Neymar","Brazil","Croatia","Goal",88.5,50
+12/06/2014,73,"Lovren","Croatia","Brazil","Miss",91,60.4
+12/06/2014,77,"David Luiz","Brazil","Croatia","Miss",95.4,52.4
+12/06/2014,86,"Modric","Croatia","Brazil","Attempt Saved",69.4,58.1
+12/06/2014,88,"Corluka","Croatia","Brazil","Miss",87.5,57.5
+12/06/2014,90,"Brozovic","Croatia","Brazil","Blocked",92.7,30.5
+12/06/2014,90,"Oscar","Brazil","Croatia","Goal",79.1,58.8
+12/06/2014,90,"Perisic","Croatia","Brazil","Attempt Saved",75.2,34.2
+12/06/2014,90,"Brozovic","Croatia","Brazil","Miss",72.5,59.6
+13/06/2014,7,"Layún","Mexico","Cameroon","Attempt Saved",74.9,71.5
+13/06/2014,9,"Herrera","Mexico","Cameroon","Miss",77.5,50.3
+13/06/2014,18,"Assou-Ekotto","Cameroon","Mexico","Miss",70.4,55.2
+13/06/2014,18,"Mbia","Cameroon","Mexico","Miss",91.8,53
+13/06/2014,21,"Eto'o","Cameroon","Mexico","Post",88.9,53.8
+13/06/2014,23,"Choupo-Moting","Cameroon","Mexico","Miss",95.4,54.6
+13/06/2014,24,"Chedjou","Cameroon","Mexico","Miss",81.3,73.3
+13/06/2014,27,"Márquez","Mexico","Cameroon","Miss",92.5,52.8
+13/06/2014,35,"Assou-Ekotto","Cameroon","Mexico","Blocked",68.7,50.7
+13/06/2014,45,"Enoh","Cameroon","Mexico","Miss",71.1,42.2
+13/06/2014,48,"Peralta","Mexico","Cameroon","Attempt Saved",92.2,35.1
+13/06/2014,58,"Assou-Ekotto","Cameroon","Mexico","Blocked",73.7,47.3
+13/06/2014,59,"Chedjou","Cameroon","Mexico","Miss",90.3,53.4
+13/06/2014,61,"dos Santos","Mexico","Cameroon","Attempt Saved",87.2,44.9
+13/06/2014,61,"Peralta","Mexico","Cameroon","Goal",88.6,48.7
+13/06/2014,63,"Guardado","Mexico","Cameroon","Miss",75.4,69.4
+13/06/2014,78,"Layún","Mexico","Cameroon","Miss",72.7,44.5
+13/06/2014,80,"Eto'o","Cameroon","Mexico","Blocked",76.4,69.7
+13/06/2014,81,"N'Koulou","Cameroon","Mexico","Miss",91.8,51.3
+13/06/2014,85,"Choupo-Moting","Cameroon","Mexico","Blocked",83.5,67.8
+13/06/2014,90,"Moukandjo","Cameroon","Mexico","Attempt Saved",90.7,47
+13/06/2014,90,"Hernández","Mexico","Cameroon","Miss",94,52.5
+13/06/2014,8,"Sneijder","Holland","Spain","Attempt Saved",86.4,38.6
+13/06/2014,10,"Iniesta","Spain","Holland","Miss",75.8,65.8
+13/06/2014,13,"Diego Costa","Spain","Holland","Blocked",90.4,64
+13/06/2014,18,"Diego Costa","Spain","Holland","Miss",88.3,28.3
+13/06/2014,23,"Ramos","Spain","Holland","Miss",91.3,47.2
+13/06/2014,27,"Alonso","Spain","Holland","Goal",88.5,50
+13/06/2014,35,"de Jong","Holland","Spain","Attempt Saved",76.7,69.1
+13/06/2014,43,"Silva","Spain","Holland","Attempt Saved",89.5,63.3
+13/06/2014,44,"van Persie","Holland","Spain","Goal",84.8,50.9
+13/06/2014,50,"Iniesta","Spain","Holland","Attempt Saved",72.7,48.2
+13/06/2014,53,"Robben","Holland","Spain","Goal",89.4,47.8
+13/06/2014,60,"van Persie","Holland","Spain","Post",90.3,30.1
+13/06/2014,64,"de Vrij","Holland","Spain","Goal",99,45.2
+13/06/2014,64,"de Vrij","Holland","Spain","Post",98,45.4
+13/06/2014,67,"Silva","Spain","Holland","Blocked",85,51.1
+13/06/2014,67,"Pedro","Spain","Holland","Attempt Saved",91.3,57.3
+13/06/2014,69,"van Persie","Holland","Spain","Attempt Saved",78.5,63.9
+13/06/2014,72,"van Persie","Holland","Spain","Goal",89.6,45.6
+13/06/2014,76,"Ramos","Spain","Holland","Miss",73.2,59
+13/06/2014,80,"Robben","Holland","Spain","Goal",91.2,54.2
+13/06/2014,87,"Robben","Holland","Spain","Attempt Saved",81.3,33.1
+13/06/2014,87,"Wijnaldum","Holland","Spain","Attempt Saved",86.9,51.1
+13/06/2014,88,"Sneijder","Holland","Spain","Blocked",78.7,46.4
+13/06/2014,90,"Sneijder","Holland","Spain","Miss",89.5,56.7
+13/06/2014,12,"Sánchez","Chile","Australia","Goal",94.6,42.3
+13/06/2014,14,"Valdívia","Chile","Australia","Goal",84.2,50.5
+13/06/2014,19,"Oar","Australia","Chile","Miss",72.2,54
+13/06/2014,22,"Oar","Australia","Chile","Miss",77.9,61.7
+13/06/2014,24,"Vidal","Chile","Australia","Miss",89.4,32.2
+13/06/2014,33,"Mena","Chile","Australia","Blocked",87.8,62.3
+13/06/2014,35,"Cahill","Australia","Chile","Goal",95.3,56.9
+13/06/2014,37,"Cahill","Australia","Chile","Attempt Saved",93.6,31.2
+13/06/2014,38,"Isla","Chile","Australia","Blocked",97,31.4
+13/06/2014,51,"Cahill","Australia","Chile","Miss",90.8,46.1
+13/06/2014,56,"Bresciano","Australia","Chile","Attempt Saved",89,40.4
+13/06/2014,56,"Bresciano","Australia","Chile","Attempt Saved",99.2,39.4
+13/06/2014,59,"Cahill","Australia","Chile","Miss",96,42.5
+13/06/2014,61,"Vargas","Chile","Australia","Blocked",93.3,56.5
+13/06/2014,62,"Bresciano","Australia","Chile","Miss",83.5,37.9
+13/06/2014,65,"Leckie","Australia","Chile","Miss",87.2,55.7
+13/06/2014,70,"Cahill","Australia","Chile","Miss",91.9,44.5
+13/06/2014,70,"Díaz","Chile","Australia","Blocked",73.4,42.1
+13/06/2014,84,"Milligan","Australia","Chile","Blocked",72.1,48.9
+13/06/2014,85,"Sánchez","Chile","Australia","Miss",80,70.6
+13/06/2014,87,"Leckie","Australia","Chile","Blocked",83.8,72.7
+13/06/2014,90,"Beausejour","Chile","Australia","Goal",81.5,69.3
+13/06/2014,90,"Pinilla","Chile","Australia","Attempt Saved",89.9,57.2
+14/06/2014,5,"Maniatis","Greece","Colombia","Attempt Saved",74.4,30.9
+14/06/2014,5,"Armero","Colombia","Greece","Goal",86.4,51.3
+14/06/2014,6,"Kone","Greece","Colombia","Miss",87.6,60.6
+14/06/2014,11,"Holebas","Greece","Colombia","Blocked",70.9,36.9
+14/06/2014,18,"Rodríguez","Colombia","Greece","Attempt Saved",73.2,49.9
+14/06/2014,28,"Torosidis","Greece","Colombia","Miss",91.3,48
+14/06/2014,30,"Kone","Greece","Colombia","Miss",82.1,34.7
+14/06/2014,33,"Cuadrado","Colombia","Greece","Miss",68,51.5
+14/06/2014,37,"Rodríguez","Colombia","Greece","Miss",96.6,33.7
+14/06/2014,42,"Yepes","Colombia","Greece","Miss",86.6,50.7
+14/06/2014,44,"Cuadrado","Colombia","Greece","Miss",94,31.6
+14/06/2014,45,"Kone","Greece","Colombia","Attempt Saved",79.2,52.4
+14/06/2014,49,"Salpingidis","Greece","Colombia","Blocked",83.4,27.9
+14/06/2014,49,"Rodríguez","Colombia","Greece","Attempt Saved",79.1,62.1
+14/06/2014,53,"Rodríguez","Colombia","Greece","Blocked",74.3,31.8
+14/06/2014,54,"Cuadrado","Colombia","Greece","Miss",73.5,36.9
+14/06/2014,58,"Gutiérrez","Colombia","Greece","Goal",97.7,53.2
+14/06/2014,63,"Gekas","Greece","Colombia","Post",94.6,49.3
+14/06/2014,67,"Rodríguez","Colombia","Greece","Blocked",80.4,26.8
+14/06/2014,70,"Mitroglou","Greece","Colombia","Blocked",75.7,49.6
+14/06/2014,75,"Maniatis","Greece","Colombia","Blocked",71.9,40.4
+14/06/2014,77,"Arias","Colombia","Greece","Attempt Saved",80.6,68.8
+14/06/2014,85,"Samaras","Greece","Colombia","Miss",75,47.8
+14/06/2014,90,"Rodríguez","Colombia","Greece","Goal",86.9,40
+14/06/2014,7,"Arévalo Rios","Uruguay","Costa Rica","Blocked",70.7,67.2
+14/06/2014,12,"Ruiz","Costa Rica","Uruguay","Miss",91.5,49.5
+14/06/2014,15,"Cáceres","Uruguay","Costa Rica","Blocked",72.8,69.6
+14/06/2014,16,"Cavani","Uruguay","Costa Rica","Miss",91.3,36.9
+14/06/2014,24,"Cavani","Uruguay","Costa Rica","Goal",88.5,50
+14/06/2014,26,"Forlán","Uruguay","Costa Rica","Miss",91,72.6
+14/06/2014,27,"Campbell","Costa Rica","Uruguay","Miss",68.4,36.6
+14/06/2014,31,"Gonzalez","Costa Rica","Uruguay","Blocked",94.2,65.1
+14/06/2014,40,"Forlán","Uruguay","Costa Rica","Miss",79.3,55
+14/06/2014,44,"Forlán","Uruguay","Costa Rica","Attempt Saved",83.5,72.6
+14/06/2014,45,"Campbell","Costa Rica","Uruguay","Miss",87.6,42.1
+14/06/2014,50,"Duarte","Costa Rica","Uruguay","Miss",96.9,58.8
+14/06/2014,50,"Duarte","Costa Rica","Uruguay","Attempt Saved",96.4,59.8
+14/06/2014,52,"Cavani","Uruguay","Costa Rica","Miss",75.4,65.5
+14/06/2014,54,"Campbell","Costa Rica","Uruguay","Goal",89.4,59
+14/06/2014,57,"Duarte","Costa Rica","Uruguay","Goal",96.2,59.6
+14/06/2014,64,"Campbell","Costa Rica","Uruguay","Miss",71.4,45.4
+14/06/2014,66,"Ruiz","Costa Rica","Uruguay","Miss",90.1,43.4
+14/06/2014,69,"Borges","Costa Rica","Uruguay","Miss",73.5,31.4
+14/06/2014,70,"Cavani","Uruguay","Costa Rica","Attempt Saved",88.4,43.7
+14/06/2014,77,"Gonzalez","Costa Rica","Uruguay","Miss",90.7,42.7
+14/06/2014,84,"Ureña","Costa Rica","Uruguay","Goal",93.9,30.3
+14/06/2014,4,"Sterling","England","Italy","Miss",75.4,30.7
+14/06/2014,5,"Henderson","England","Italy","Attempt Saved",76.2,28
+14/06/2014,8,"Chiellini","Italy","England","Miss",88.3,70.8
+14/06/2014,11,"Welbeck","England","Italy","Miss",73.5,46.2
+14/06/2014,16,"Johnson","England","Italy","Miss",77.4,27
+14/06/2014,19,"Candreva","Italy","England","Attempt Saved",68.2,42.5
+14/06/2014,23,"Balotelli","Italy","England","Miss",73.5,52.8
+14/06/2014,28,"Candreva","Italy","England","Miss",76.2,23.7
+14/06/2014,33,"Balotelli","Italy","England","Miss",93.7,43.9
+14/06/2014,35,"Marchisio","Italy","England","Goal",74.6,42.7
+14/06/2014,37,"Sturridge","England","Italy","Goal",96,45
+14/06/2014,41,"Henderson","England","Italy","Blocked",68.2,45.4
+14/06/2014,45,"Balotelli","Italy","England","Blocked",95.5,76.4
+14/06/2014,45,"Darmian","Italy","England","Miss",75.1,35.7
+14/06/2014,45,"Candreva","Italy","England","Post",92.6,69.5
+14/06/2014,49,"Sturridge","England","Italy","Attempt Saved",74.5,36.3
+14/06/2014,50,"Balotelli","Italy","England","Goal",96.7,56.4
+14/06/2014,54,"Rooney","England","Italy","Miss",80.3,30.4
+14/06/2014,55,"Sterling","England","Italy","Blocked",84.6,32.4
+14/06/2014,61,"Sturridge","England","Italy","Miss",76.1,52.1
+14/06/2014,62,"Rooney","England","Italy","Miss",87.9,62.7
+14/06/2014,63,"Darmian","Italy","England","Blocked",92.2,43.5
+14/06/2014,64,"Barkley","England","Italy","Attempt Saved",87,66.8
+14/06/2014,68,"Candreva","Italy","England","Miss",78.4,24.2
+14/06/2014,72,"Johnson","England","Italy","Miss",75.5,30.3
+14/06/2014,77,"Baines","England","Italy","Attempt Saved",77.6,32.5
+14/06/2014,85,"Gerrard","England","Italy","Miss",80.4,70.8
+14/06/2014,87,"Rooney","England","Italy","Miss",79.3,57.1
+14/06/2014,89,"Sterling","England","Italy","Miss",82.2,33.6
+14/06/2014,90,"Pirlo","Italy","England","Post",73.8,67.3
+14/06/2014,90,"Sterling","England","Italy","Miss",77.1,33.6
+15/06/2014,6,"Bony","Ivory Coast","Japan","Blocked",90.9,36.9
+15/06/2014,7,"Gervinho","Ivory Coast","Japan","Blocked",94.4,28.3
+15/06/2014,16,"Honda","Japan","Ivory Coast","Goal",86.5,67.9
+15/06/2014,20,"Uchida","Japan","Ivory Coast","Attempt Saved",89.4,27.7
+15/06/2014,24,"Yaya Touré","Ivory Coast","Japan","Miss",75.9,56.4
+15/06/2014,27,"Kalou","Ivory Coast","Japan","Miss",75.2,44.6
+15/06/2014,31,"Boka","Ivory Coast","Japan","Miss",77,37.3
+15/06/2014,34,"Gervinho","Ivory Coast","Japan","Blocked",88.2,34.7
+15/06/2014,35,"Boka","Ivory Coast","Japan","Attempt Saved",72.5,58.2
+15/06/2014,36,"Honda","Japan","Ivory Coast","Blocked",79.5,52.2
+15/06/2014,39,"Gervinho","Ivory Coast","Japan","Blocked",88.8,63.5
+15/06/2014,39,"Bony","Ivory Coast","Japan","Miss",86.5,50.9
+15/06/2014,43,"Kalou","Ivory Coast","Japan","Miss",92.5,61
+15/06/2014,44,"Kalou","Ivory Coast","Japan","Blocked",95.2,44.1
+15/06/2014,45,"Boka","Ivory Coast","Japan","Attempt Saved",90.2,80.8
+15/06/2014,48,"Bony","Ivory Coast","Japan","Miss",93.6,47.2
+15/06/2014,48,"Aurier","Ivory Coast","Japan","Blocked",85.6,28.6
+15/06/2014,50,"Hasebe","Japan","Ivory Coast","Miss",84,70.9
+15/06/2014,51,"Yamaguchi","Japan","Ivory Coast","Miss",73.5,52.4
+15/06/2014,58,"Gervinho","Ivory Coast","Japan","Miss",92.9,43.5
+15/06/2014,60,"Kalou","Ivory Coast","Japan","Miss",72,54.6
+15/06/2014,64,"Bony","Ivory Coast","Japan","Goal",91.2,42.8
+15/06/2014,66,"Gervinho","Ivory Coast","Japan","Goal",90.3,37
+15/06/2014,68,"Honda","Japan","Ivory Coast","Miss",82.5,49.3
+15/06/2014,77,"Yaya Touré","Ivory Coast","Japan","Miss",73.3,42.1
+15/06/2014,80,"Okubo","Japan","Ivory Coast","Blocked",80.4,73.9
+15/06/2014,82,"Drogba","Ivory Coast","Japan","Attempt Saved",73.4,53
+15/06/2014,85,"Drogba","Ivory Coast","Japan","Blocked",84.8,54.6
+15/06/2014,13,"Xhaka","Switzerland","Ecuador","Miss",71.8,65.3
+15/06/2014,16,"Shaqiri","Switzerland","Ecuador","Attempt Saved",80.5,62.9
+15/06/2014,18,"Antonio Valencia","Ecuador","Switzerland","Blocked",86,69
+15/06/2014,19,"Rodriguez","Switzerland","Ecuador","Attempt Saved",78.2,84.3
+15/06/2014,22,"Enner Valencia","Ecuador","Switzerland","Goal",95.2,50.9
+15/06/2014,25,"Shaqiri","Switzerland","Ecuador","Blocked",73.4,42.9
+15/06/2014,28,"Stocker","Switzerland","Ecuador","Miss",95,38.2
+15/06/2014,34,"Behrami","Switzerland","Ecuador","Attempt Saved",92.5,57.7
+15/06/2014,35,"Shaqiri","Switzerland","Ecuador","Blocked",81.5,58.8
+15/06/2014,36,"Inler","Switzerland","Ecuador","Attempt Saved",77.9,74
+15/06/2014,38,"Xhaka","Switzerland","Ecuador","Blocked",73.6,59.8
+15/06/2014,44,"Montero","Ecuador","Switzerland","Blocked",82.1,54
+15/06/2014,45,"Walter Ayoví","Ecuador","Switzerland","Miss",77.6,66.2
+15/06/2014,47,"Lichtsteiner","Switzerland","Ecuador","Blocked",76.4,35.9
+15/06/2014,48,"Mehmedi","Switzerland","Ecuador","Goal",96.4,51.8
+15/06/2014,49,"Inler","Switzerland","Ecuador","Miss",71.9,51.1
+15/06/2014,52,"Erazo","Ecuador","Switzerland","Miss",93.3,52.4
+15/06/2014,57,"Gruezo","Ecuador","Switzerland","Miss",74.4,71.3
+15/06/2014,58,"Mehmedi","Switzerland","Ecuador","Blocked",88.6,45.1
+15/06/2014,59,"Enner Valencia","Ecuador","Switzerland","Miss",81.6,49.7
+15/06/2014,61,"Noboa","Ecuador","Switzerland","Attempt Saved",72.2,74
+15/06/2014,66,"Montero","Ecuador","Switzerland","Attempt Saved",94.2,70.7
+15/06/2014,69,"Xhaka","Switzerland","Ecuador","Blocked",66.8,35.9
+15/06/2014,73,"Shaqiri","Switzerland","Ecuador","Miss",95.6,66.6
+15/06/2014,82,"Shaqiri","Switzerland","Ecuador","Blocked",78.8,66
+15/06/2014,86,"Arroyo","Ecuador","Switzerland","Attempt Saved",71.5,51.6
+15/06/2014,90,"Seferovic","Switzerland","Ecuador","Goal",95.4,53.4
+15/06/2014,1,"Wilson Palacios","Honduras","France","Miss",70.6,61.5
+15/06/2014,6,"Griezmann","France","Honduras","Blocked",84.4,45.4
+15/06/2014,10,"Benzema","France","Honduras","Miss",82.4,52.8
+15/06/2014,15,"Matuidi","France","Honduras","Attempt Saved",89.5,57.9
+15/06/2014,16,"Valbuena","France","Honduras","Blocked",76.1,52.8
+15/06/2014,22,"Cabaye","France","Honduras","Miss",74.6,49.4
+15/06/2014,23,"Griezmann","France","Honduras","Post",95.7,46.6
+15/06/2014,24,"Benzema","France","Honduras","Miss",89.9,45.4
+15/06/2014,35,"Figueroa","Honduras","France","Miss",61.7,93.1
+15/06/2014,41,"Benzema","France","Honduras","Blocked",96.3,66.7
+15/06/2014,45,"Valbuena","France","Honduras","Attempt Saved",91.7,88
+15/06/2014,45,"Benzema","France","Honduras","Goal",88.5,50
+15/06/2014,48,"Benzema","France","Honduras","Post",93.2,60.8
+15/06/2014,48,"Valladares","France","Honduras","Goal",99.2,53.1
+15/06/2014,54,"Debuchy","France","Honduras","Miss",81.9,28.3
+15/06/2014,55,"Benzema","France","Honduras","Attempt Saved",91.9,50.5
+15/06/2014,56,"Valbuena","France","Honduras","Miss",87.3,65.3
+15/06/2014,60,"Cabaye","France","Honduras","Miss",72.4,47.2
+15/06/2014,64,"Matuidi","France","Honduras","Miss",92.9,55.7
+15/06/2014,68,"Óscar García","Honduras","France","Attempt Saved",91.9,67
+15/06/2014,72,"Debuchy","France","Honduras","Blocked",77.4,37.7
+15/06/2014,72,"Benzema","France","Honduras","Goal",94.7,32.8
+15/06/2014,75,"Beckeles","Honduras","France","Miss",75.2,33.6
+15/06/2014,89,"Griezmann","France","Honduras","Blocked",92.3,66.4
+15/06/2014,90,"Matuidi","France","Honduras","Miss",79.1,60.3
+15/06/2014,3,"Kolasinac","Argentina","Bosnia and Herzegovina","Goal",96.2,44.7
+15/06/2014,3,"Rojo","Argentina","Bosnia and Herzegovina","Miss",92.5,52.2
+15/06/2014,5,"Di María","Argentina","Bosnia and Herzegovina","Blocked",71.9,66
+15/06/2014,15,"Pjanic","Bosnia and Herzegovina","Argentina","Blocked",73.1,46.3
+15/06/2014,18,"Agüero","Argentina","Bosnia and Herzegovina","Blocked",90.9,69.3
+15/06/2014,21,"Messi","Argentina","Bosnia and Herzegovina","Blocked",89.9,35.1
+15/06/2014,25,"Lulic","Bosnia and Herzegovina","Argentina","Blocked",77.7,58.1
+15/06/2014,31,"Maxi Rodríguez","Argentina","Bosnia and Herzegovina","Miss",74.1,37.7
+15/06/2014,32,"Mascherano","Argentina","Bosnia and Herzegovina","Attempt Saved",75.6,39.1
+15/06/2014,33,"Dzeko","Bosnia and Herzegovina","Argentina","Miss",78.8,55.1
+15/06/2014,41,"Lulic","Bosnia and Herzegovina","Argentina","Attempt Saved",91.2,44
+15/06/2014,41,"Hajrovic","Bosnia and Herzegovina","Argentina","Attempt Saved",71.7,60
+15/06/2014,43,"Besic","Bosnia and Herzegovina","Argentina","Miss",71.7,64.5
+15/06/2014,46,"Misimovic","Bosnia and Herzegovina","Argentina","Blocked",75.6,54.6
+15/06/2014,50,"Hajrovic","Bosnia and Herzegovina","Argentina","Attempt Saved",75.7,41.3
+15/06/2014,54,"Hajrovic","Bosnia and Herzegovina","Argentina","Attempt Saved",78.3,25.2
+15/06/2014,55,"Agüero","Argentina","Bosnia and Herzegovina","Miss",87.9,66.6
+15/06/2014,61,"Besic","Bosnia and Herzegovina","Argentina","Miss",68.5,57.6
+15/06/2014,64,"Messi","Argentina","Bosnia and Herzegovina","Miss",72.1,52.1
+15/06/2014,65,"Messi","Argentina","Bosnia and Herzegovina","Goal",82.5,51.5
+15/06/2014,69,"Hajrovic","Bosnia and Herzegovina","Argentina","Miss",80.8,30.3
+15/06/2014,76,"Agüero","Argentina","Bosnia and Herzegovina","Miss",78.9,29.8
+15/06/2014,78,"Higuaín","Argentina","Bosnia and Herzegovina","Miss",90.9,51.1
+15/06/2014,81,"Pjanic","Bosnia and Herzegovina","Argentina","Blocked",80.8,32.8
+15/06/2014,81,"Medunjanin","Bosnia and Herzegovina","Argentina","Blocked",76.1,59.9
+15/06/2014,84,"Ibisevic","Bosnia and Herzegovina","Argentina","Goal",93.1,68.7
+15/06/2014,84,"Visca","Bosnia and Herzegovina","Argentina","Attempt Saved",72.5,40.1
+15/06/2014,87,"Medunjanin","Bosnia and Herzegovina","Argentina","Miss",76.1,67.8
+15/06/2014,90,"Messi","Argentina","Bosnia and Herzegovina","Miss",95,34.5
+16/06/2014,3,"Moses","Nigeria","Iran","Attempt Saved",80.5,58.4
+16/06/2014,9,"Onazi","Nigeria","Iran","Miss",88,40.2
+16/06/2014,31,"Musa","Nigeria","Iran","Attempt Saved",72.4,84.5
+16/06/2014,34,"Ghoochannejhad","Iran","Nigeria","Attempt Saved",95,42.5
+16/06/2014,39,"Onazi","Nigeria","Iran","Miss",69.7,64.1
+16/06/2014,40,"Emenike","Nigeria","Iran","Miss",78.9,77.5
+16/06/2014,42,"Nekounam","Iran","Nigeria","Blocked",77.6,33.8
+16/06/2014,46,"Teymourian","Iran","Nigeria","Blocked",66.3,48.5
+16/06/2014,50,"Ghoochannejhad","Iran","Nigeria","Miss",79.5,35.5
+16/06/2014,51,"Nekounam","Iran","Nigeria","Blocked",85.8,51.3
+16/06/2014,58,"Emenike","Nigeria","Iran","Miss",89,24.8
+16/06/2014,61,"Hajsafi","Iran","Nigeria","Miss",72.5,67.2
+16/06/2014,63,"Ghoochannejhad","Iran","Nigeria","Miss",68.4,51.3
+16/06/2014,64,"Mikel","Nigeria","Iran","Blocked",71.2,49.3
+16/06/2014,67,"Ghoochannejhad","Iran","Nigeria","Miss",84.9,50.5
+16/06/2014,76,"Onazi","Nigeria","Iran","Attempt Saved",73.8,53
+16/06/2014,81,"Teymourian","Iran","Nigeria","Miss",74.1,40.6
+16/06/2014,87,"Shola Ameobi","Nigeria","Iran","Attempt Saved",89,59
+16/06/2014,90,"Shola Ameobi","Nigeria","Iran","Blocked",90,61.2
+16/06/2014,5,"Hugo Almeida","Portugal","Germany","Attempt Saved",84.9,37.7
+16/06/2014,6,"Ronaldo","Portugal","Germany","Miss",71.9,72.8
+16/06/2014,8,"Khedira","Germany","Portugal","Miss",72.1,32.2
+16/06/2014,8,"Ronaldo","Portugal","Germany","Attempt Saved",93,71.1
+16/06/2014,12,"Müller","Germany","Portugal","Goal",88.5,50
+16/06/2014,14,"Veloso","Portugal","Germany","Blocked",68.2,50.1
+16/06/2014,25,"Nani","Portugal","Germany","Miss",81.9,27.7
+16/06/2014,31,"Götze","Germany","Portugal","Blocked",85,50.3
+16/06/2014,32,"Hummels","Germany","Portugal","Goal",92.3,51.8
+16/06/2014,36,"Eder","Portugal","Germany","Miss",92.2,53.4
+16/06/2014,40,"Götze","Germany","Portugal","Miss",87.3,66.8
+16/06/2014,40,"Kroos","Germany","Portugal","Blocked",73.2,50.9
+16/06/2014,42,"Götze","Germany","Portugal","Attempt Saved",90.8,46.3
+16/06/2014,45,"Müller","Germany","Portugal","Goal",87.2,53
+16/06/2014,51,"Özil","Germany","Portugal","Attempt Saved",89,42.5
+16/06/2014,51,"Müller","Germany","Portugal","Miss",93.5,57.5
+16/06/2014,60,"Ronaldo","Portugal","Germany","Blocked",75.9,67
+16/06/2014,66,"Ronaldo","Portugal","Germany","Blocked",72.5,30.3
+16/06/2014,68,"Nani","Portugal","Germany","Blocked",87.2,68.4
+16/06/2014,69,"Götze","Germany","Portugal","Blocked",86,54.8
+16/06/2014,75,"Nani","Portugal","Germany","Attempt Saved",74.8,55.3
+16/06/2014,78,"Müller","Germany","Portugal","Goal",96.7,46.8
+16/06/2014,78,"Lahm","Germany","Portugal","Blocked",84.9,48
+16/06/2014,82,"Ronaldo","Portugal","Germany","Blocked",75.2,48.7
+16/06/2014,85,"Ronaldo","Portugal","Germany","Blocked",70.1,51.2
+16/06/2014,90,"Ronaldo","Portugal","Germany","Attempt Saved",72.7,48
+16/06/2014,1,"Dempsey","USA","Ghana","Goal",91.2,66
+16/06/2014,7,"Altidore","USA","Ghana","Miss",88.2,46.1
+16/06/2014,19,"Altidore","USA","Ghana","Blocked",90.2,55
+16/06/2014,24,"Boye","Ghana","USA","Miss",93.3,65.3
+16/06/2014,26,"Bedoya","USA","Ghana","Miss",71.3,32.1
+16/06/2014,29,"Atsu","Ghana","USA","Miss",75.6,59.8
+16/06/2014,29,"Atsu","Ghana","USA","Blocked",73.5,37.3
+16/06/2014,32,"Gyan","Ghana","USA","Attempt Saved",78.4,70.5
+16/06/2014,39,"Gyan","Ghana","USA","Miss",86.8,44.1
+16/06/2014,42,"Jóhannsson","USA","Ghana","Miss",78.9,41
+16/06/2014,45,"Jordan Ayew","Ghana","USA","Blocked",85.8,44.7
+16/06/2014,52,"Atsu","Ghana","USA","Miss",77.9,25.4
+16/06/2014,55,"Muntari","Ghana","USA","Miss",71.7,48.7
+16/06/2014,56,"Gyan","Ghana","USA","Miss",91,55.5
+16/06/2014,58,"Gyan","Ghana","USA","Miss",86.2,43.7
+16/06/2014,62,"Atsu","Ghana","USA","Miss",77.9,34
+16/06/2014,63,"Jones","USA","Ghana","Attempt Saved",72.8,42.7
+16/06/2014,64,"Gyan","Ghana","USA","Blocked",85,47.2
+16/06/2014,64,"Boateng","Ghana","USA","Miss",85.6,37.5
+16/06/2014,65,"Asamoah","Ghana","USA","Attempt Saved",70.9,73.2
+16/06/2014,68,"Boateng","Ghana","USA","Miss",69.9,51.8
+16/06/2014,76,"André Ayew","Ghana","USA","Miss",91.7,51.9
+16/06/2014,79,"Dempsey","USA","Ghana","Attempt Saved",81.2,54.6
+16/06/2014,82,"André Ayew","Ghana","USA","Goal",89.7,62.5
+16/06/2014,86,"Brooks","USA","Ghana","Goal",91.6,47.4
+16/06/2014,88,"Boateng","Ghana","USA","Blocked",90.3,35.1
+16/06/2014,89,"Essien","Ghana","USA","Blocked",89.7,44.5
+16/06/2014,89,"Mensah","Ghana","USA","Miss",85.9,58.3
+16/06/2014,90,"Muntari","Ghana","USA","Miss",73.9,59
+17/06/2014,17,"van Buyten","Belgium","Algeria","Blocked",64.2,29.7
+17/06/2014,18,"Mahrez","Algeria","Belgium","Miss",91.6,72.1
+17/06/2014,21,"Witsel","Belgium","Algeria","Attempt Saved",70.8,48.8
+17/06/2014,24,"Feghouli","Algeria","Belgium","Goal",88.5,50
+17/06/2014,27,"Dembélé","Belgium","Algeria","Miss",74.1,70.9
+17/06/2014,30,"De Bruyne","Belgium","Algeria","Miss",72.3,77.2
+17/06/2014,34,"Witsel","Belgium","Algeria","Attempt Saved",71.1,49
+17/06/2014,35,"Chadli","Belgium","Algeria","Attempt Saved",74.3,69.7
+17/06/2014,39,"Vertonghen","Belgium","Algeria","Miss",76.7,37.6
+17/06/2014,42,"Chadli","Belgium","Algeria","Miss",67.1,54.8
+17/06/2014,44,"Chadli","Belgium","Algeria","Attempt Saved",89.8,66.1
+17/06/2014,50,"Witsel","Belgium","Algeria","Miss",96.2,41.7
+17/06/2014,57,"Medjani","Algeria","Belgium","Miss",93.2,56.3
+17/06/2014,66,"Origi","Belgium","Algeria","Attempt Saved",81.3,46.6
+17/06/2014,66,"Vertonghen","Belgium","Algeria","Miss",83.5,67.8
+17/06/2014,70,"Fellaini","Belgium","Algeria","Goal",90.2,54.4
+17/06/2014,73,"van Buyten","Belgium","Algeria","Miss",89.9,56.1
+17/06/2014,78,"De Bruyne","Belgium","Algeria","Blocked",71.6,49.1
+17/06/2014,80,"Mertens","Belgium","Algeria","Goal",88,33.2
+17/06/2014,84,"Fellaini","Belgium","Algeria","Attempt Saved",92.1,54.5
+17/06/2014,11,"Son","South Korea","Russia","Miss",84.7,36.7
+17/06/2014,21,"Samedov","Russia","South Korea","Miss",96.8,38.6
+17/06/2014,27,"Eshchenko","Russia","South Korea","Blocked",66.5,65.8
+17/06/2014,28,"Kokorin","Russia","South Korea","Miss",87.8,57.3
+17/06/2014,31,"Ignashevitch","Russia","South Korea","Attempt Saved",68,35.3
+17/06/2014,33,"Zhirkov","Russia","South Korea","Miss",80.4,75
+17/06/2014,34,"Koo","South Korea","Russia","Blocked",74.6,47
+17/06/2014,39,"Son","South Korea","Russia","Miss",82.7,61.7
+17/06/2014,46,"Berezoutski","Russia","South Korea","Miss",94.5,58.1
+17/06/2014,46,"Faizulin","Russia","South Korea","Attempt Saved",69.9,52.7
+17/06/2014,50,"Koo","South Korea","Russia","Attempt Saved",71.4,53.4
+17/06/2014,51,"Ki Sung-Yueng","South Korea","Russia","Attempt Saved",76,74.4
+17/06/2014,53,"Lee Chung-Yong","South Korea","Russia","Miss",91.2,34.9
+17/06/2014,57,"Kim Young-Gwon","South Korea","Russia","Attempt Saved",71.1,51
+17/06/2014,62,"Eshchenko","Russia","South Korea","Blocked",79.7,19.5
+17/06/2014,62,"Hong","South Korea","Russia","Attempt Saved",92.2,43.7
+17/06/2014,62,"Kombarov","Russia","South Korea","Attempt Saved",71.6,63.3
+17/06/2014,68,"Lee Keun-Ho","South Korea","Russia","Goal",77.4,36.1
+17/06/2014,70,"Glushakov","Russia","South Korea","Blocked",76.5,63.7
+17/06/2014,74,"Dzagoev","Russia","South Korea","Attempt Saved",91.6,27.9
+17/06/2014,74,"Kerzhakov","Russia","South Korea","Goal",95.6,45
+17/06/2014,79,"Son","South Korea","Russia","Blocked",76.9,43.5
+17/06/2014,82,"Dzagoev","Russia","South Korea","Miss",70.6,50.3
+17/06/2014,82,"Kokorin","Russia","South Korea","Blocked",70.6,51.9
+17/06/2014,88,"Kokorin","Russia","South Korea","Miss",89.7,49.3
+17/06/2014,90,"Samedov","Russia","South Korea","Miss",94.2,26.4
+17/06/2014,90,"Denisov","Russia","South Korea","Blocked",68.8,58.8
+17/06/2014,90,"Kokorin","Russia","South Korea","Miss",88.8,43.3
+17/06/2014,7,"David Luiz","Brazil","Mexico","Blocked",69,71.4
+17/06/2014,14,"Fred","Brazil","Mexico","Blocked",83.9,55
+17/06/2014,18,"Luiz Gustavo","Brazil","Mexico","Miss",71.1,23.7
+17/06/2014,24,"Herrera","Mexico","Brazil","Miss",79.5,24.4
+17/06/2014,26,"Neymar","Brazil","Mexico","Attempt Saved",90.9,55.7
+17/06/2014,26,"Layún","Mexico","Brazil","Miss",66.8,71.2
+17/06/2014,29,"Oscar","Brazil","Mexico","Attempt Saved",74.8,68.4
+17/06/2014,35,"Fred","Brazil","Mexico","Attempt Saved",90.3,51
+17/06/2014,37,"Layún","Mexico","Brazil","Miss",76.8,75.6
+17/06/2014,39,"Marcelo","Brazil","Mexico","Miss",72.6,69.9
+17/06/2014,41,"Vázquez","Mexico","Brazil","Miss",74.1,52.7
+17/06/2014,44,"Paulinho","Brazil","Mexico","Attempt Saved",92.7,53
+17/06/2014,49,"Oscar","Brazil","Mexico","Miss",78.1,71.1
+17/06/2014,53,"Guardado","Mexico","Brazil","Blocked",70.4,68.8
+17/06/2014,55,"Vázquez","Mexico","Brazil","Miss",70.4,53
+17/06/2014,56,"dos Santos","Mexico","Brazil","Attempt Saved",77.3,43.4
+17/06/2014,57,"Herrera","Mexico","Brazil","Miss",79.6,31
+17/06/2014,60,"Guardado","Mexico","Brazil","Miss",73.3,65.2
+17/06/2014,63,"Neymar","Brazil","Mexico","Miss",71.9,69
+17/06/2014,69,"Neymar","Brazil","Mexico","Attempt Saved",90.7,40
+17/06/2014,76,"Jô","Brazil","Mexico","Miss",90,71.8
+17/06/2014,78,"Hernández","Mexico","Brazil","Miss",88.8,47
+17/06/2014,81,"dos Santos","Mexico","Brazil","Blocked",74.1,51.5
+17/06/2014,86,"Willian","Brazil","Mexico","Miss",91.3,38
+17/06/2014,86,"Thiago Silva","Brazil","Mexico","Attempt Saved",95.2,51.5
+17/06/2014,90,"Guardado","Mexico","Brazil","Miss",85.2,16.7
+17/06/2014,90,"Jiménez","Mexico","Brazil","Attempt Saved",86.7,23.6
+18/06/2014,1,"Moukandjo","Cameroon","Croatia","Miss",93.9,12.6
+18/06/2014,11,"Olic","Croatia","Cameroon","Goal",92.3,56.7
+18/06/2014,14,"Mandzukic","Croatia","Cameroon","Miss",76.2,64.7
+18/06/2014,16,"Perisic","Croatia","Cameroon","Attempt Saved",94,48.5
+18/06/2014,17,"Rakitic","Croatia","Cameroon","Attempt Saved",69.5,58.3
+18/06/2014,20,"Song","Cameroon","Croatia","Blocked",77.6,41.5
+18/06/2014,21,"Mbia","Cameroon","Croatia","Miss",74.1,22.8
+18/06/2014,26,"Olic","Croatia","Cameroon","Miss",91.3,77
+18/06/2014,36,"Perisic","Croatia","Cameroon","Miss",89.7,47.2
+18/06/2014,39,"Sammir","Croatia","Cameroon","Attempt Saved",75.9,36.7
+18/06/2014,44,"Choupo-Moting","Cameroon","Croatia","Blocked",88.2,77.1
+18/06/2014,45,"Aboubakar","Cameroon","Croatia","Miss",83.8,47.4
+18/06/2014,45,"Aboubakar","Cameroon","Croatia","Miss",71.8,48.7
+18/06/2014,45,"Enoh","Cameroon","Croatia","Blocked",71.9,84.1
+18/06/2014,46,"Sammir","Croatia","Cameroon","Miss",95.7,32.4
+18/06/2014,47,"Choupo-Moting","Cameroon","Croatia","Attempt Saved",71.4,52
+18/06/2014,48,"Perisic","Croatia","Cameroon","Goal",94.6,69.5
+18/06/2014,50,"Mandzukic","Croatia","Cameroon","Miss",88.2,44.1
+18/06/2014,52,"Nounkeu","Cameroon","Croatia","Miss",90.9,31
+18/06/2014,59,"Srna","Croatia","Cameroon","Miss",80.5,50.7
+18/06/2014,60,"Modric","Croatia","Cameroon","Blocked",74.4,57.7
+18/06/2014,61,"Mandzukic","Croatia","Cameroon","Goal",91.5,53
+18/06/2014,66,"Aboubakar","Cameroon","Croatia","Blocked",80.5,63.9
+18/06/2014,67,"Aboubakar","Cameroon","Croatia","Miss",81.5,68.4
+18/06/2014,69,"Mbia","Cameroon","Croatia","Miss",72.5,38.2
+18/06/2014,73,"Mandzukic","Croatia","Cameroon","Goal",95.3,54.9
+18/06/2014,73,"Eduardo","Croatia","Cameroon","Attempt Saved",86.5,31.6
+18/06/2014,76,"Srna","Croatia","Cameroon","Miss",85.6,32.7
+18/06/2014,79,"Mbia","Cameroon","Croatia","Miss",94.4,40.8
+18/06/2014,82,"Srna","Croatia","Cameroon","Blocked",89.6,34.5
+18/06/2014,85,"Moukandjo","Cameroon","Croatia","Miss",87.6,59.4
+18/06/2014,87,"Rebic","Croatia","Cameroon","Attempt Saved",88.8,71.1
+18/06/2014,89,"Webó","Cameroon","Croatia","Blocked",92.2,53.2
+18/06/2014,89,"Webó","Cameroon","Croatia","Attempt Saved",91.4,49.7
+18/06/2014,90,"Nounkeu","Cameroon","Croatia","Miss",89.6,24
+18/06/2014,2,"Jara","Chile","Spain","Miss",88,47.8
+18/06/2014,15,"Diego Costa","Spain","Chile","Blocked",92.2,32.8
+18/06/2014,15,"Alonso","Spain","Chile","Attempt Saved",94.9,57.1
+18/06/2014,19,"Vargas","Chile","Spain","Goal",92.4,49.9
+18/06/2014,23,"Alonso","Spain","Chile","Miss",84.3,46.6
+18/06/2014,27,"Diego Costa","Spain","Chile","Miss",90.6,60.8
+18/06/2014,43,"Aránguiz","Chile","Spain","Goal",86.9,43.1
+18/06/2014,43,"Sánchez","Chile","Spain","Attempt Saved",73.6,27.4
+18/06/2014,49,"Alba","Spain","Chile","Miss",73.2,61.4
+18/06/2014,49,"Diego Costa","Spain","Chile","Blocked",87.2,54
+18/06/2014,53,"Ramos","Spain","Chile","Attempt Saved",79.1,61.7
+18/06/2014,53,"Busquets","Spain","Chile","Miss",96.1,55.4
+18/06/2014,65,"Vargas","Chile","Spain","Attempt Saved",75.5,52.1
+18/06/2014,68,"Mena","Chile","Spain","Miss",87.9,68.8
+18/06/2014,68,"Isla","Chile","Spain","Miss",97.2,39.2
+18/06/2014,71,"Gutierrez","Chile","Spain","Miss",90.5,55.5
+18/06/2014,80,"Cazorla","Spain","Chile","Attempt Saved",76.4,49.4
+18/06/2014,84,"Iniesta","Spain","Chile","Attempt Saved",73.8,42.4
+18/06/2014,85,"Ramos","Spain","Chile","Attempt Saved",90,51.8
+18/06/2014,88,"Cazorla","Spain","Chile","Attempt Saved",74.9,55.7
+18/06/2014,89,"Ramos","Spain","Chile","Miss",87.7,46.6
+18/06/2014,90,"Ramos","Spain","Chile","Blocked",92.3,54.2
+18/06/2014,90,"Alba","Spain","Chile","Miss",80.3,70.9
+18/06/2014,90,"Koke","Spain","Chile","Blocked",89.2,31.6
+18/06/2014,16,"Bresciano","Australia","Holland","Blocked",84,48
+18/06/2014,18,"van Persie","Holland","Australia","Attempt Saved",85.4,35.5
+18/06/2014,20,"Robben","Holland","Australia","Goal",90.3,63.9
+18/06/2014,21,"Cahill","Australia","Holland","Goal",88.2,64.9
+18/06/2014,24,"Robben","Holland","Australia","Blocked",82.1,31.4
+18/06/2014,25,"Vlaar","Holland","Australia","Miss",95.6,57.9
+18/06/2014,31,"Bresciano","Australia","Holland","Miss",86.7,61.8
+18/06/2014,32,"Spiranovic","Australia","Holland","Attempt Saved",90.3,56.6
+18/06/2014,34,"Leckie","Australia","Holland","Blocked",75.3,48.5
+18/06/2014,49,"van Persie","Holland","Australia","Blocked",74,51.9
+18/06/2014,50,"Sneijder","Holland","Australia","Miss",79.1,68.5
+18/06/2014,54,"Jedinak","Australia","Holland","Goal",88.5,50
+18/06/2014,58,"van Persie","Holland","Australia","Goal",88.8,61.5
+18/06/2014,58,"Robben","Holland","Australia","Attempt Saved",96.2,34
+18/06/2014,63,"Cahill","Australia","Holland","Miss",92.2,39.2
+18/06/2014,67,"Leckie","Australia","Holland","Attempt Saved",92.3,47.2
+18/06/2014,68,"Depay","Holland","Australia","Goal",70.9,55.5
+18/06/2014,69,"van Persie","Holland","Australia","Attempt Saved",79.3,70.2
+18/06/2014,72,"Bozanic","Australia","Holland","Blocked",86.6,38.6
+18/06/2014,72,"Sneijder","Holland","Australia","Blocked",85,53.3
+18/06/2014,74,"de Jong","Holland","Australia","Attempt Saved",86.4,40.4
+18/06/2014,74,"Robben","Holland","Australia","Attempt Saved",76.2,40.7
+18/06/2014,81,"Jedinak","Australia","Holland","Blocked",80.2,74.2
+18/06/2014,90,"Lens","Holland","Australia","Attempt Saved",91.9,62.7
+19/06/2014,6,"Gutiérrez","Colombia","Ivory Coast","Miss",80.4,55.4
+19/06/2014,10,"Aurier","Ivory Coast","Colombia","Blocked",89.8,40.9
+19/06/2014,17,"Sánchez","Colombia","Ivory Coast","Attempt Saved",69.2,51.1
+19/06/2014,25,"Tioté","Ivory Coast","Colombia","Miss",73.4,58.3
+19/06/2014,28,"Gutiérrez","Colombia","Ivory Coast","Miss",91.9,49.9
+19/06/2014,31,"Aurier","Ivory Coast","Colombia","Attempt Saved",84.7,32.1
+19/06/2014,34,"Yepes","Colombia","Ivory Coast","Miss",95.2,67.5
+19/06/2014,36,"Tioté","Ivory Coast","Colombia","Blocked",68.9,41.5
+19/06/2014,36,"Serey Die","Ivory Coast","Colombia","Blocked",74.3,56.6
+19/06/2014,43,"Gradel","Ivory Coast","Colombia","Blocked",82.6,48
+19/06/2014,52,"Yaya Touré","Ivory Coast","Colombia","Miss",74.8,30.9
+19/06/2014,59,"Cuadrado","Colombia","Ivory Coast","Attempt Saved",97.6,25.5
+19/06/2014,59,"Rodríguez","Colombia","Ivory Coast","Blocked",77.4,54
+19/06/2014,61,"Gutiérrez","Colombia","Ivory Coast","Blocked",93.2,57.1
+19/06/2014,64,"Rodríguez","Colombia","Ivory Coast","Goal",92.9,57.9
+19/06/2014,68,"Yaya Touré","Ivory Coast","Colombia","Blocked",74.8,48.5
+19/06/2014,69,"Yaya Touré","Ivory Coast","Colombia","Blocked",90.3,69.3
+19/06/2014,70,"Quintero","Colombia","Ivory Coast","Goal",87.9,45.1
+19/06/2014,73,"Gervinho","Ivory Coast","Colombia","Goal",88.5,61
+19/06/2014,75,"Cuadrado","Colombia","Ivory Coast","Attempt Saved",90.5,22.4
+19/06/2014,76,"Drogba","Ivory Coast","Colombia","Blocked",85.1,35.5
+19/06/2014,84,"Bolly","Ivory Coast","Colombia","Miss",90.7,34.9
+19/06/2014,85,"Kalou","Ivory Coast","Colombia","Attempt Saved",81.9,45.1
+19/06/2014,89,"Quintero","Colombia","Ivory Coast","Attempt Saved",57.9,94.1
+19/06/2014,2,"Yamaguchi","Japan","Greece","Blocked",77.8,51.8
+19/06/2014,4,"Mitroglou","Greece","Japan","Blocked",96.2,66.4
+19/06/2014,11,"Kone","Greece","Japan","Attempt Saved",75.3,34.9
+19/06/2014,16,"Okubo","Japan","Greece","Blocked",69.2,44.9
+19/06/2014,19,"Osako","Japan","Greece","Attempt Saved",75.6,51.5
+19/06/2014,21,"Osako","Japan","Greece","Miss",76.7,78.8
+19/06/2014,23,"Yoshida","Japan","Greece","Blocked",70.8,25.6
+19/06/2014,29,"Honda","Japan","Greece","Attempt Saved",77.3,39.4
+19/06/2014,33,"Okubo","Japan","Greece","Miss",86.4,56.9
+19/06/2014,39,"Osako","Japan","Greece","Blocked",85.3,43.7
+19/06/2014,40,"Torosidis","Greece","Japan","Attempt Saved",84.7,37.1
+19/06/2014,45,"Torosidis","Greece","Japan","Miss",93.1,50.7
+19/06/2014,46,"Samaras","Greece","Japan","Miss",53.7,48.7
+19/06/2014,56,"Endo","Japan","Greece","Blocked",75.1,60.3
+19/06/2014,60,"Kone","Greece","Japan","Miss",72,47.5
+19/06/2014,60,"Gekas","Greece","Japan","Attempt Saved",90.3,54.8
+19/06/2014,67,"Honda","Japan","Greece","Blocked",73.2,38.3
+19/06/2014,67,"Okazaki","Japan","Greece","Blocked",86.4,46.7
+19/06/2014,68,"Okubo","Japan","Greece","Miss",97.2,60.2
+19/06/2014,70,"Honda","Japan","Greece","Blocked",78.3,57.9
+19/06/2014,71,"Uchida","Japan","Greece","Miss",93.4,42.5
+19/06/2014,77,"Okubo","Japan","Greece","Attempt Saved",70.5,49.4
+19/06/2014,81,"Samaras","Greece","Japan","Miss",93.7,50.3
+19/06/2014,85,"Yoshida","Japan","Greece","Miss",96.8,48.8
+19/06/2014,85,"Nagatomo","Japan","Greece","Miss",90.6,69
+19/06/2014,88,"Holebas","Greece","Japan","Attempt Saved",87.3,77.5
+19/06/2014,90,"Endo","Japan","Greece","Attempt Saved",80.8,67.6
+19/06/2014,10,"Rooney","England","Uruguay","Miss",78.9,59.6
+19/06/2014,15,"Rodríguez","Uruguay","England","Miss",88.2,73.2
+19/06/2014,17,"Sturridge","England","Uruguay","Blocked",83.5,32.4
+19/06/2014,27,"Cavani","Uruguay","England","Miss",90.4,38.5
+19/06/2014,31,"Rooney","England","Uruguay","Post",99.1,45.4
+19/06/2014,36,"Sturridge","England","Uruguay","Miss",70.1,26.8
+19/06/2014,39,"Suárez","Uruguay","England","Goal",93,45.7
+19/06/2014,41,"Sturridge","England","Uruguay","Attempt Saved",93,70.8
+19/06/2014,50,"González","Uruguay","England","Blocked",82.5,44.7
+19/06/2014,50,"Suárez","Uruguay","England","Miss",84,28.2
+19/06/2014,52,"Cavani","Uruguay","England","Miss",92.9,64.3
+19/06/2014,54,"Rooney","England","Uruguay","Attempt Saved",90.9,54
+19/06/2014,59,"Henderson","England","Uruguay","Attempt Saved",78.1,77.7
+19/06/2014,69,"Suárez","Uruguay","England","Miss",73.4,4.2
+19/06/2014,74,"Sturridge","England","Uruguay","Attempt Saved",79.6,32.8
+19/06/2014,75,"Rooney","England","Uruguay","Goal",96.7,53.4
+19/06/2014,78,"Sturridge","England","Uruguay","Attempt Saved",87.3,57.6
+19/06/2014,85,"Suárez","Uruguay","England","Goal",91.7,32.2
+19/06/2014,90,"Jagielka","England","Uruguay","Miss",91.5,53.1
+19/06/2014,90,"Gerrard","England","Uruguay","Miss",74.1,43.4
+20/06/2014,2,"Christian Bolaños","Costa Rica","Italy","Attempt Saved",69.1,57.1
+20/06/2014,6,"Yeltsin Tejeda","Costa Rica","Italy","Blocked",92.9,69.9
+20/06/2014,7,"Borges","Costa Rica","Italy","Miss",96.4,49.7
+20/06/2014,27,"Motta","Italy","Costa Rica","Miss",76.6,54
+20/06/2014,31,"Balotelli","Italy","Costa Rica","Miss",90.3,44.2
+20/06/2014,33,"Balotelli","Italy","Costa Rica","Attempt Saved",81.1,44.5
+20/06/2014,36,"Candreva","Italy","Costa Rica","Blocked",73.5,33.6
+20/06/2014,36,"Christian Bolaños","Costa Rica","Italy","Attempt Saved",74.4,58.5
+20/06/2014,39,"Ruiz","Costa Rica","Italy","Attempt Saved",72.9,51.1
+20/06/2014,42,"Duarte","Costa Rica","Italy","Miss",91.3,43.9
+20/06/2014,43,"Balotelli","Italy","Costa Rica","Blocked",71.7,56.9
+20/06/2014,44,"Ruiz","Costa Rica","Italy","Goal",97.4,43.3
+20/06/2014,50,"Cassano","Italy","Costa Rica","Blocked",88.5,34
+20/06/2014,50,"Gonzalez","Costa Rica","Italy","Miss",96.8,33.4
+20/06/2014,51,"Darmian","Italy","Costa Rica","Attempt Saved",81.5,73.8
+20/06/2014,53,"Pirlo","Italy","Costa Rica","Attempt Saved",71.3,50.9
+20/06/2014,54,"Borges","Costa Rica","Italy","Attempt Saved",73.6,67.8
+20/06/2014,62,"Cassano","Italy","Costa Rica","Attempt Saved",73.1,48.2
+20/06/2014,82,"Insigne","Italy","Costa Rica","Miss",81.6,50.3
+20/06/2014,84,"Ureña","Costa Rica","Italy","Blocked",85.3,46.3
+20/06/2014,90,"Cassano","Italy","Costa Rica","Miss",93.7,52.2
+20/06/2014,90,"Brenes","Costa Rica","Italy","Miss",75.5,62.7
+20/06/2014,1,"Rodriguez","Switzerland","France","Blocked",71.1,77.8
+20/06/2014,6,"Benzema","France","Switzerland","Miss",79.7,59
+20/06/2014,13,"Cabaye","France","Switzerland","Miss",72.9,49.3
+20/06/2014,17,"Giroud","France","Switzerland","Goal",89.3,55
+20/06/2014,18,"Matuidi","France","Switzerland","Goal",91.5,65.5
+20/06/2014,25,"Benzema","France","Switzerland","Attempt Saved",76.4,56.9
+20/06/2014,27,"Inler","Switzerland","France","Miss",79.9,46.8
+20/06/2014,29,"Giroud","France","Switzerland","Miss",75.7,44.3
+20/06/2014,30,"Shaqiri","Switzerland","France","Miss",88.2,63
+20/06/2014,30,"Mehmedi","Switzerland","France","Attempt Saved",74.4,48.2
+20/06/2014,32,"Benzema","France","Switzerland","Attempt Saved",88.5,50
+20/06/2014,32,"Cabaye","France","Switzerland","Post",95.6,45.8
+20/06/2014,33,"Matuidi","France","Switzerland","Miss",81.6,67.6
+20/06/2014,40,"Valbuena","France","Switzerland","Goal",95.6,47.2
+20/06/2014,43,"Valbuena","France","Switzerland","Attempt Saved",85.5,48.5
+20/06/2014,45,"Xhaka","Switzerland","France","Blocked",74.4,51.5
+20/06/2014,45,"Benzema","France","Switzerland","Attempt Saved",81.3,63.3
+20/06/2014,46,"Seferovic","Switzerland","France","Miss",82.2,42.2
+20/06/2014,48,"Giroud","France","Switzerland","Blocked",80.6,43.3
+20/06/2014,49,"Benzema","France","Switzerland","Blocked",78.1,66.9
+20/06/2014,51,"Seferovic","Switzerland","France","Miss",75.9,56.3
+20/06/2014,53,"Xhaka","Switzerland","France","Miss",94.7,59.9
+20/06/2014,54,"Shaqiri","Switzerland","France","Miss",73.7,63.7
+20/06/2014,55,"Giroud","France","Switzerland","Miss",73.5,51.3
+20/06/2014,58,"Dzemaili","Switzerland","France","Miss",74.7,52.1
+20/06/2014,60,"Benzema","France","Switzerland","Blocked",84.1,55.1
+20/06/2014,62,"Shaqiri","Switzerland","France","Blocked",81.7,46.4
+20/06/2014,64,"Mehmedi","Switzerland","France","Miss",95,57.1
+20/06/2014,67,"Benzema","France","Switzerland","Goal",96.3,39.1
+20/06/2014,71,"Xhaka","Switzerland","France","Miss",93.2,49.6
+20/06/2014,72,"Evra","France","Switzerland","Miss",90.9,65.2
+20/06/2014,73,"Sissoko","France","Switzerland","Goal",87.5,33.9
+20/06/2014,76,"Matuidi","France","Switzerland","Attempt Saved",94.4,66.9
+20/06/2014,76,"Valbuena","France","Switzerland","Attempt Saved",86.7,41
+20/06/2014,76,"Benzema","France","Switzerland","Attempt Saved",89.4,54
+20/06/2014,77,"Inler","Switzerland","France","Blocked",72.7,27.2
+20/06/2014,81,"Dzemaili","Switzerland","France","Goal",66.4,53.4
+20/06/2014,86,"Shaqiri","Switzerland","France","Attempt Saved",75.1,50.4
+20/06/2014,87,"Xhaka","Switzerland","France","Goal",87.5,35.4
+20/06/2014,1,"Caicedo","Ecuador","Honduras","Attempt Saved",85.2,46.6
+20/06/2014,6,"Óscar García","Honduras","Ecuador","Attempt Saved",74.5,31.6
+20/06/2014,8,"Noboa","Ecuador","Honduras","Blocked",73,50.9
+20/06/2014,8,"Walter Ayoví","Ecuador","Honduras","Miss",74.1,48.5
+20/06/2014,15,"Costly","Honduras","Ecuador","Miss",68.4,44.9
+20/06/2014,19,"Enner Valencia","Ecuador","Honduras","Miss",86.2,40
+20/06/2014,27,"Bernárdez","Honduras","Ecuador","Miss",91.4,41.2
+20/06/2014,27,"Espinoza","Honduras","Ecuador","Blocked",76.1,60.8
+20/06/2014,31,"Costly","Honduras","Ecuador","Goal",82.8,53.8
+20/06/2014,34,"Paredes","Ecuador","Honduras","Blocked",80.3,21.6
+20/06/2014,34,"Enner Valencia","Ecuador","Honduras","Goal",97.7,55.9
+20/06/2014,45,"Costly","Honduras","Ecuador","Post",92.3,48.2
+20/06/2014,45,"Bernárdez","Honduras","Ecuador","Attempt Saved",71.2,52.8
+20/06/2014,45,"Bengtson","Honduras","Ecuador","Miss",94,51.1
+20/06/2014,46,"Beckeles","Honduras","Ecuador","Attempt Saved",77.8,32.1
+20/06/2014,51,"Noboa","Ecuador","Honduras","Miss",74.9,75
+20/06/2014,60,"Claros","Honduras","Ecuador","Miss",77.3,39.4
+20/06/2014,60,"Bengtson","Honduras","Ecuador","Attempt Saved",81.9,31.8
+20/06/2014,61,"Erazo","Ecuador","Honduras","Miss",89.7,50.7
+20/06/2014,65,"Enner Valencia","Ecuador","Honduras","Goal",95.4,47.8
+20/06/2014,74,"Figueroa","Honduras","Ecuador","Miss",71,50.6
+20/06/2014,76,"Martínez","Honduras","Ecuador","Blocked",70,38.5
+20/06/2014,76,"Martínez","Honduras","Ecuador","Blocked",70.8,45.1
+20/06/2014,79,"Espinoza","Honduras","Ecuador","Miss",76.7,62.4
+20/06/2014,81,"Espinoza","Honduras","Ecuador","Blocked",79.6,43.1
+20/06/2014,85,"Enner Valencia","Ecuador","Honduras","Attempt Saved",69.2,41.9
+20/06/2014,86,"Figueroa","Honduras","Ecuador","Miss",68.4,69
+21/06/2014,4,"Hosseini","Iran","Argentina","Miss",86.2,52.8
+21/06/2014,11,"Messi","Argentina","Iran","Blocked",79.5,27.9
+21/06/2014,13,"Higuaín","Argentina","Iran","Attempt Saved",90.6,40
+21/06/2014,19,"Di María","Argentina","Iran","Miss",78.1,53.6
+21/06/2014,22,"Agüero","Argentina","Iran","Attempt Saved",87.6,68.2
+21/06/2014,24,"Rojo","Argentina","Iran","Miss",92.3,47.6
+21/06/2014,27,"Garay","Argentina","Iran","Miss",92.1,55.2
+21/06/2014,30,"Messi","Argentina","Iran","Blocked",78.3,51.3
+21/06/2014,33,"Messi","Argentina","Iran","Miss",76.5,54
+21/06/2014,36,"Garay","Argentina","Iran","Miss",95.9,44.5
+21/06/2014,42,"Hosseini","Iran","Argentina","Miss",95.5,44.6
+21/06/2014,45,"Federico Fernández","Argentina","Iran","Miss",93.1,46.4
+21/06/2014,45,"Hajsafi","Iran","Argentina","Miss",75.3,61.1
+21/06/2014,50,"Zabaleta","Argentina","Iran","Miss",86.9,26.5
+21/06/2014,52,"Agüero","Argentina","Iran","Miss",93.6,54.4
+21/06/2014,52,"Ghoochannejhad","Iran","Argentina","Attempt Saved",90.5,46.8
+21/06/2014,55,"Garay","Argentina","Iran","Miss",93,48.2
+21/06/2014,59,"Messi","Argentina","Iran","Miss",80.8,51.5
+21/06/2014,59,"Di María","Argentina","Iran","Blocked",81.8,73.2
+21/06/2014,64,"Hajsafi","Iran","Argentina","Blocked",70.8,54.5
+21/06/2014,67,"Ghoochannejhad","Iran","Argentina","Blocked",91.6,49.9
+21/06/2014,67,"Dejagah","Iran","Argentina","Attempt Saved",87.5,50
+21/06/2014,74,"Messi","Argentina","Iran","Miss",79.7,73.6
+21/06/2014,75,"Di María","Argentina","Iran","Attempt Saved",91,70
+21/06/2014,82,"Rojo","Argentina","Iran","Miss",73.4,19.8
+21/06/2014,84,"Palacio","Argentina","Iran","Miss",95.1,67.9
+21/06/2014,86,"Rojo","Argentina","Iran","Miss",91.2,49.5
+21/06/2014,86,"Ghoochannejhad","Iran","Argentina","Attempt Saved",86.8,65.2
+21/06/2014,90,"Messi","Argentina","Iran","Goal",73.3,28.3
+21/06/2014,3,"Onazi","Nigeria","Bosnia and Herzegovina","Miss",77.5,39.8
+21/06/2014,7,"Odemwingie","Nigeria","Bosnia and Herzegovina","Miss",73.4,36.4
+21/06/2014,8,"Besic","Bosnia and Herzegovina","Nigeria","Miss",80.8,30.6
+21/06/2014,11,"Mikel","Nigeria","Bosnia and Herzegovina","Miss",78.8,61.8
+21/06/2014,14,"Onazi","Nigeria","Bosnia and Herzegovina","Attempt Saved",69.9,50.3
+21/06/2014,19,"Misimovic","Bosnia and Herzegovina","Nigeria","Miss",79.4,71.8
+21/06/2014,20,"Musa","Nigeria","Bosnia and Herzegovina","Attempt Saved",73.5,73.3
+21/06/2014,23,"Hajrovic","Bosnia and Herzegovina","Nigeria","Attempt Saved",85.6,32.4
+21/06/2014,24,"Dzeko","Bosnia and Herzegovina","Nigeria","Attempt Saved",88.6,37.9
+21/06/2014,27,"Onazi","Nigeria","Bosnia and Herzegovina","Miss",83.1,25.3
+21/06/2014,28,"Pjanic","Bosnia and Herzegovina","Nigeria","Attempt Saved",76.7,40.1
+21/06/2014,29,"Odemwingie","Nigeria","Bosnia and Herzegovina","Goal",92.5,44.1
+21/06/2014,33,"Odemwingie","Nigeria","Bosnia and Herzegovina","Miss",73.5,29.7
+21/06/2014,33,"Dzeko","Bosnia and Herzegovina","Nigeria","Attempt Saved",91.4,54.6
+21/06/2014,38,"Emenike","Nigeria","Bosnia and Herzegovina","Blocked",93.9,29.5
+21/06/2014,39,"Musa","Nigeria","Bosnia and Herzegovina","Attempt Saved",88,18.8
+21/06/2014,40,"Medunjanin","Bosnia and Herzegovina","Nigeria","Miss",71.7,45.5
+21/06/2014,45,"Dzeko","Bosnia and Herzegovina","Nigeria","Miss",86.7,43.6
+21/06/2014,45,"Dzeko","Bosnia and Herzegovina","Nigeria","Miss",79.3,62.9
+21/06/2014,47,"Dzeko","Bosnia and Herzegovina","Nigeria","Miss",91,35.5
+21/06/2014,55,"Babatunde","Nigeria","Bosnia and Herzegovina","Attempt Saved",79.2,30.9
+21/06/2014,56,"Onazi","Nigeria","Bosnia and Herzegovina","Miss",80.7,53.7
+21/06/2014,56,"Odemwingie","Nigeria","Bosnia and Herzegovina","Blocked",84.1,28
+21/06/2014,61,"Babatunde","Nigeria","Bosnia and Herzegovina","Attempt Saved",77.7,46.6
+21/06/2014,61,"Emenike","Nigeria","Bosnia and Herzegovina","Attempt Saved",96.1,65.2
+21/06/2014,63,"Musa","Nigeria","Bosnia and Herzegovina","Blocked",75.2,68.4
+21/06/2014,65,"Emenike","Nigeria","Bosnia and Herzegovina","Attempt Saved",94.3,25.8
+21/06/2014,67,"Ibisevic","Bosnia and Herzegovina","Nigeria","Blocked",86,51.1
+21/06/2014,72,"Dzeko","Bosnia and Herzegovina","Nigeria","Miss",90.3,56.1
+21/06/2014,74,"Ibisevic","Bosnia and Herzegovina","Nigeria","Miss",95.6,56
+21/06/2014,77,"Pjanic","Bosnia and Herzegovina","Nigeria","Attempt Saved",80.3,71.2
+21/06/2014,79,"Uzoenyi","Nigeria","Bosnia and Herzegovina","Miss",75.9,25
+21/06/2014,81,"Onazi","Nigeria","Bosnia and Herzegovina","Attempt Saved",76.4,52.1
+21/06/2014,82,"Besic","Bosnia and Herzegovina","Nigeria","Blocked",74.6,48.7
+21/06/2014,83,"Emenike","Nigeria","Bosnia and Herzegovina","Miss",75.7,44.8
+21/06/2014,90,"Spahic","Bosnia and Herzegovina","Nigeria","Blocked",92.3,35.8
+21/06/2014,90,"Misimovic","Bosnia and Herzegovina","Nigeria","Miss",78.9,39.8
+21/06/2014,90,"Ibisevic","Bosnia and Herzegovina","Nigeria","Blocked",90.1,34.2
+21/06/2014,90,"Dzeko","Bosnia and Herzegovina","Nigeria","Attempt Saved",92.1,46.1
+21/06/2014,90,"Dzeko","Bosnia and Herzegovina","Nigeria","Attempt Saved",92,48.5
+21/06/2014,7,"Gyan","Ghana","Germany","Miss",91.8,49.6
+21/06/2014,11,"Kroos","Germany","Ghana","Blocked",81.6,47.8
+21/06/2014,13,"Atsu","Ghana","Germany","Attempt Saved",75.9,39.8
+21/06/2014,18,"Khedira","Germany","Ghana","Attempt Saved",78.4,41.3
+21/06/2014,20,"Boateng","Ghana","Germany","Miss",74.9,63.1
+21/06/2014,26,"Kroos","Germany","Ghana","Miss",69.7,53
+21/06/2014,33,"Muntari","Ghana","Germany","Attempt Saved",75.3,40.4
+21/06/2014,37,"Götze","Germany","Ghana","Attempt Saved",80.6,30
+21/06/2014,45,"Kroos","Germany","Ghana","Miss",76.7,42.7
+21/06/2014,45,"Atsu","Ghana","Germany","Blocked",75.3,37.7
+21/06/2014,45,"Mensah","Ghana","Germany","Miss",83.9,53.6
+21/06/2014,45,"André Ayew","Ghana","Germany","Blocked",90.5,51.8
+21/06/2014,51,"Götze","Germany","Ghana","Goal",93.6,54
+21/06/2014,54,"André Ayew","Ghana","Germany","Goal",90.6,49.9
+21/06/2014,57,"Asamoah","Ghana","Germany","Blocked",73.6,62.3
+21/06/2014,58,"Muntari","Ghana","Germany","Miss",70.4,41.5
+21/06/2014,63,"Gyan","Ghana","Germany","Goal",89.7,38
+21/06/2014,67,"Jordan Ayew","Ghana","Germany","Attempt Saved",86.2,71.5
+21/06/2014,68,"Muntari","Ghana","Germany","Miss",72.3,56.4
+21/06/2014,71,"Klose","Germany","Ghana","Goal",97.1,47
+21/06/2014,71,"Höwedes","Germany","Ghana","Blocked",95,59.7
+21/06/2014,73,"Schweinsteiger","Germany","Ghana","Miss",92.5,52.8
+21/06/2014,77,"Schweinsteiger","Germany","Ghana","Miss",74.3,37.3
+21/06/2014,78,"Wakaso","Ghana","Germany","Blocked",68,60.3
+21/06/2014,78,"Jordan Ayew","Ghana","Germany","Miss",86.7,31
+21/06/2014,79,"Badu","Ghana","Germany","Miss",76.5,29.8
+21/06/2014,84,"Müller","Germany","Ghana","Blocked",87,52.5
+21/06/2014,88,"Jordan Ayew","Ghana","Germany","Attempt Saved",76.4,50
+21/06/2014,89,"Gyan","Ghana","Germany","Miss",81.9,33.4
+21/06/2014,90,"Klose","Germany","Ghana","Miss",84.3,51.8
+22/06/2014,5,"Nani","Portugal","USA","Goal",94.7,41.9
+22/06/2014,10,"Johnson","USA","Portugal","Blocked",90.5,25.8
+22/06/2014,13,"Dempsey","USA","Portugal","Miss",76.4,30.5
+22/06/2014,17,"Dempsey","USA","Portugal","Attempt Saved",96.3,31.4
+22/06/2014,18,"Dempsey","USA","Portugal","Miss",89,66
+22/06/2014,22,"Moutinho","Portugal","USA","Miss",68.1,32.1
+22/06/2014,24,"Bradley","USA","Portugal","Miss",70.8,54.3
+22/06/2014,27,"Dempsey","USA","Portugal","Blocked",90.2,36.1
+22/06/2014,28,"Bradley","USA","Portugal","Miss",76.4,67
+22/06/2014,32,"Johnson","USA","Portugal","Miss",75.2,36.3
+22/06/2014,34,"Veloso","Portugal","USA","Blocked",72.4,51.3
+22/06/2014,35,"Jones","USA","Portugal","Attempt Saved",72.9,57.1
+22/06/2014,36,"Ronaldo","Portugal","USA","Attempt Saved",71.2,33
+22/06/2014,42,"Nani","Portugal","USA","Attempt Saved",81.2,30.5
+22/06/2014,43,"Ronaldo","Portugal","USA","Miss",77,37.7
+22/06/2014,45,"Ronaldo","Portugal","USA","Miss",90,43.5
+22/06/2014,45,"Eder","Portugal","USA","Attempt Saved",85.2,42.5
+22/06/2014,45,"Nani","Portugal","USA","Attempt Saved",75,25.2
+22/06/2014,47,"Ronaldo","Portugal","USA","Blocked",75.2,58.5
+22/06/2014,48,"Eder","Portugal","USA","Miss",84.8,44.5
+22/06/2014,51,"Eder","Portugal","USA","Blocked",84.1,74.8
+22/06/2014,55,"Bradley","USA","Portugal","Blocked",92.7,46.6
+22/06/2014,60,"Jones","USA","Portugal","Blocked",77.8,50.5
+22/06/2014,62,"Ronaldo","Portugal","USA","Miss",89.2,26.8
+22/06/2014,62,"Beckerman","USA","Portugal","Blocked",70.9,50.3
+22/06/2014,64,"Jones","USA","Portugal","Goal",75.4,59.6
+22/06/2014,65,"Meireles","Portugal","USA","Miss",92.6,69.3
+22/06/2014,66,"Meireles","Portugal","USA","Attempt Saved",88.6,64.9
+22/06/2014,80,"Nani","Portugal","USA","Miss",81.3,32.8
+22/06/2014,81,"Bradley","USA","Portugal","Blocked",85.5,49.9
+22/06/2014,81,"Dempsey","USA","Portugal","Goal",96.4,49.9
+22/06/2014,82,"Eder","Portugal","USA","Blocked",81.8,44.7
+22/06/2014,86,"Veloso","Portugal","USA","Blocked",75.5,62.3
+22/06/2014,89,"Ronaldo","Portugal","USA","Miss",91.4,55.7
+22/06/2014,90,"Ronaldo","Portugal","USA","Miss",89.5,43.3
+22/06/2014,90,"Varela","Portugal","USA","Goal",91.5,55.7
+22/06/2014,2,"Kanunnikov","Russia","Belgium","Blocked",88,71.3
+22/06/2014,4,"Mertens","Belgium","Russia","Blocked",89.6,31.8
+22/06/2014,12,"Faizulin","Russia","Belgium","Attempt Saved",80.5,49.3
+22/06/2014,20,"Mertens","Belgium","Russia","Miss",79.3,30.1
+22/06/2014,22,"Mertens","Belgium","Russia","Miss",92,29.5
+22/06/2014,30,"Kanunnikov","Russia","Belgium","Attempt Saved",76.1,71.1
+22/06/2014,35,"Shatov","Russia","Belgium","Attempt Saved",73.5,59.2
+22/06/2014,39,"Lukaku","Belgium","Russia","Blocked",84.8,56.3
+22/06/2014,43,"Faizulin","Russia","Belgium","Miss",78.5,67.4
+22/06/2014,44,"Kokorin","Russia","Belgium","Miss",91.7,50.5
+22/06/2014,45,"Witsel","Belgium","Russia","Miss",71.7,47.6
+22/06/2014,53,"Glushakov","Russia","Belgium","Miss",94.5,77.2
+22/06/2014,62,"Hazard","Belgium","Russia","Blocked",77.6,71.1
+22/06/2014,65,"Faizulin","Russia","Belgium","Blocked",70.8,42.8
+22/06/2014,73,"Ignashevitch","Russia","Belgium","Miss",91.9,49
+22/06/2014,74,"Glushakov","Russia","Belgium","Miss",82.1,28.3
+22/06/2014,77,"Glushakov","Russia","Belgium","Blocked",84.1,67
+22/06/2014,78,"Origi","Belgium","Russia","Blocked",80.1,50.1
+22/06/2014,81,"Eshchenko","Russia","Belgium","Miss",84.6,27.2
+22/06/2014,84,"Mirallas","Belgium","Russia","Post",75.6,48.1
+22/06/2014,86,"Hazard","Belgium","Russia","Blocked",86.6,55.7
+22/06/2014,86,"Fellaini","Belgium","Russia","Miss",91.9,48.2
+22/06/2014,88,"Origi","Belgium","Russia","Goal",91.6,57.7
+22/06/2014,90,"Mirallas","Belgium","Russia","Attempt Saved",89.6,35.5
+22/06/2014,2,"Feghouli","Algeria","South Korea","Miss",89.3,68.1
+22/06/2014,4,"Slimani","Algeria","South Korea","Blocked",91.7,44.3
+22/06/2014,4,"Brahimi","Algeria","South Korea","Miss",89.6,51.3
+22/06/2014,9,"Slimani","Algeria","South Korea","Miss",92.2,58.2
+22/06/2014,19,"Djabou","Algeria","South Korea","Miss",73.4,63.7
+22/06/2014,21,"Slimani","Algeria","South Korea","Miss",92.3,50.3
+22/06/2014,22,"Medjani","Algeria","South Korea","Miss",85.6,29.7
+22/06/2014,26,"Slimani","Algeria","South Korea","Goal",91.3,52.4
+22/06/2014,27,"Brahimi","Algeria","South Korea","Blocked",91.7,30.7
+22/06/2014,28,"Halliche","Algeria","South Korea","Goal",95.4,51.3
+22/06/2014,38,"Djabou","Algeria","South Korea","Goal",87.5,54
+22/06/2014,43,"Slimani","Algeria","South Korea","Miss",90.5,46.6
+22/06/2014,50,"Son","South Korea","Algeria","Goal",92.6,63.9
+22/06/2014,52,"Halliche","Algeria","South Korea","Attempt Saved",92.6,51.5
+22/06/2014,57,"Koo","South Korea","Algeria","Blocked",96.2,42.1
+22/06/2014,60,"Ki Sung-Yueng","South Korea","Algeria","Attempt Saved",69.1,63.3
+22/06/2014,62,"Brahimi","Algeria","South Korea","Goal",91.9,59.9
+22/06/2014,72,"Koo","South Korea","Algeria","Goal",96.7,50.6
+22/06/2014,74,"Kim Shin-Wook","South Korea","Algeria","Miss",91.7,53
+22/06/2014,79,"Ghilas","Algeria","South Korea","Miss",93.7,48.2
+22/06/2014,85,"Lee Keun-Ho","South Korea","Algeria","Miss",90.7,34.6
+22/06/2014,87,"Son","South Korea","Algeria","Blocked",74.9,52.2
+22/06/2014,88,"Ji","South Korea","Algeria","Miss",84.5,68.4
+23/06/2014,3,"Paulinho","Brazil","Cameroon","Blocked",92.3,48.7
+23/06/2014,3,"Luiz Gustavo","Brazil","Cameroon","Blocked",81.8,49.3
+23/06/2014,6,"Fred","Brazil","Cameroon","Blocked",87.8,33.4
+23/06/2014,9,"Aboubakar","Cameroon","Brazil","Blocked",84.4,52.2
+23/06/2014,11,"Moukandjo","Cameroon","Brazil","Blocked",78.1,71.9
+23/06/2014,17,"Neymar","Brazil","Cameroon","Goal",88.5,54.2
+23/06/2014,20,"Neymar","Brazil","Cameroon","Attempt Saved",86.1,59.1
+23/06/2014,21,"Fred","Brazil","Cameroon","Attempt Saved",96.1,51.5
+23/06/2014,25,"Enoh","Cameroon","Brazil","Miss",73.1,40.3
+23/06/2014,26,"Matip","Cameroon","Brazil","Goal",97.2,48.2
+23/06/2014,26,"Matip","Cameroon","Brazil","Blocked",89.9,46.3
+23/06/2014,33,"Nyom","Cameroon","Brazil","Blocked",85.7,63.4
+23/06/2014,33,"Choupo-Moting","Cameroon","Brazil","Miss",90.1,52.1
+23/06/2014,34,"Neymar","Brazil","Cameroon","Goal",84.8,54.3
+23/06/2014,36,"Hulk","Brazil","Cameroon","Attempt Saved",75.6,73.2
+23/06/2014,37,"Enoh","Cameroon","Brazil","Miss",67.2,51.8
+23/06/2014,39,"Choupo-Moting","Cameroon","Brazil","Miss",80,76.3
+23/06/2014,45,"Hulk","Brazil","Cameroon","Blocked",91.2,58.8
+23/06/2014,47,"Fred","Brazil","Cameroon","Attempt Saved",78,31.6
+23/06/2014,49,"Neymar","Brazil","Cameroon","Attempt Saved",87.9,89.4
+23/06/2014,49,"Oscar","Brazil","Cameroon","Blocked",75.8,50.7
+23/06/2014,49,"Fred","Brazil","Cameroon","Goal",95.3,47.8
+23/06/2014,57,"Hulk","Brazil","Cameroon","Blocked",88.5,34.2
+23/06/2014,65,"N'Guémo","Cameroon","Brazil","Miss",84.6,26.2
+23/06/2014,79,"Fred","Brazil","Cameroon","Blocked",84,67.8
+23/06/2014,82,"Dani Alves","Brazil","Cameroon","Blocked",67.9,52.7
+23/06/2014,83,"Marcelo","Brazil","Cameroon","Blocked",80.5,49.7
+23/06/2014,84,"Fernandinho","Brazil","Cameroon","Goal",88.9,61.4
+23/06/2014,87,"N'Guémo","Cameroon","Brazil","Miss",70.1,33.4
+23/06/2014,90,"Willian","Brazil","Cameroon","Attempt Saved",82.6,71.5
+23/06/2014,90,"N'Koulou","Cameroon","Brazil","Miss",73.3,36.3
+23/06/2014,7,"Perisic","Croatia","Mexico","Miss",87.2,46.7
+23/06/2014,14,"Perisic","Croatia","Mexico","Miss",85.7,35.6
+23/06/2014,16,"Herrera","Mexico","Croatia","Post",74.6,57.7
+23/06/2014,23,"Olic","Croatia","Mexico","Blocked",88.4,26.6
+23/06/2014,27,"Pranjic","Croatia","Mexico","Miss",75.1,46.2
+23/06/2014,29,"Perisic","Croatia","Mexico","Miss",80.5,55.2
+23/06/2014,31,"Vázquez","Mexico","Croatia","Miss",74.5,43.3
+23/06/2014,40,"Srna","Croatia","Mexico","Miss",71.5,60.4
+23/06/2014,41,"Layún","Mexico","Croatia","Blocked",81.8,66
+23/06/2014,48,"Perisic","Croatia","Mexico","Blocked",80.8,46.4
+23/06/2014,56,"Aguilar","Mexico","Croatia","Miss",83.1,15.9
+23/06/2014,57,"Peralta","Mexico","Croatia","Miss",91.7,51.5
+23/06/2014,64,"Guardado","Mexico","Croatia","Blocked",89.6,66.4
+23/06/2014,66,"Aguilar","Mexico","Croatia","Attempt Saved",97.3,32.8
+23/06/2014,72,"Márquez","Mexico","Croatia","Goal",93.7,49.3
+23/06/2014,75,"Guardado","Mexico","Croatia","Goal",89.2,54.4
+23/06/2014,78,"Rebic","Croatia","Mexico","Blocked",93.5,66.1
+23/06/2014,82,"Hernández","Mexico","Croatia","Goal",97.4,52.8
+23/06/2014,85,"Fabián","Mexico","Croatia","Blocked",76.5,45.6
+23/06/2014,87,"Perisic","Croatia","Mexico","Goal",95.2,68.3
+23/06/2014,90,"Perisic","Croatia","Mexico","Attempt Saved",90,48
+23/06/2014,5,"Leckie","Australia","Spain","Miss",71.5,47
+23/06/2014,17,"Cazorla","Spain","Australia","Blocked",85.1,52.7
+23/06/2014,23,"Alba","Spain","Australia","Attempt Saved",91.5,65.1
+23/06/2014,24,"Torres","Spain","Australia","Blocked",85.9,30.4
+23/06/2014,36,"Villa","Spain","Australia","Goal",94.9,46.4
+23/06/2014,41,"Koke","Spain","Australia","Blocked",73.8,43.3
+23/06/2014,59,"McKay","Australia","Spain","Miss",81.5,48.5
+23/06/2014,69,"Torres","Spain","Australia","Goal",91.2,66
+23/06/2014,72,"Troisi","Australia","Spain","Miss",72,52.4
+23/06/2014,82,"Mata","Spain","Australia","Goal",96.4,36.7
+23/06/2014,87,"Spiranovic","Australia","Spain","Miss",76.4,27.7
+23/06/2014,89,"Silva","Spain","Australia","Miss",82,50.9
+23/06/2014,90,"Ramos","Spain","Australia","Miss",72.8,44
+23/06/2014,90,"Mata","Spain","Australia","Blocked",90.2,54
+23/06/2014,13,"Vargas","Chile","Holland","Miss",88.6,60.7
+23/06/2014,23,"Wijnaldum","Holland","Chile","Miss",76.6,35.9
+23/06/2014,23,"Robben","Holland","Chile","Blocked",89.9,30.3
+23/06/2014,23,"Gutierrez","Chile","Holland","Miss",85.8,52.8
+23/06/2014,26,"Sneijder","Holland","Chile","Miss",74.4,76.9
+23/06/2014,35,"de Vrij","Holland","Chile","Miss",95.4,54.2
+23/06/2014,40,"Robben","Holland","Chile","Miss",87.5,60.2
+23/06/2014,42,"Lens","Holland","Chile","Miss",76.4,36.7
+23/06/2014,44,"Gutierrez","Chile","Holland","Miss",91,49.7
+23/06/2014,45,"Lens","Holland","Chile","Blocked",77.4,50.1
+23/06/2014,56,"Sánchez","Chile","Holland","Miss",72.2,41
+23/06/2014,62,"Sneijder","Holland","Chile","Blocked",75.4,65.3
+23/06/2014,65,"Sánchez","Chile","Holland","Attempt Saved",95.4,70.3
+23/06/2014,66,"Robben","Holland","Chile","Attempt Saved",87.3,68.8
+23/06/2014,75,"Kuyt","Holland","Chile","Miss",92.3,49.9
+23/06/2014,76,"Depay","Holland","Chile","Attempt Saved",72.2,54.8
+23/06/2014,77,"Fer","Holland","Chile","Goal",92.9,52.6
+23/06/2014,81,"Díaz","Chile","Holland","Miss",80.3,49.9
+23/06/2014,85,"Isla","Chile","Holland","Blocked",72.1,39.6
+23/06/2014,89,"Medel","Chile","Holland","Miss",92,52.8
+23/06/2014,90,"Depay","Holland","Chile","Goal",95.5,48
+24/06/2014,7,"Honda","Japan","Colombia","Blocked",73.6,24
+24/06/2014,9,"Okubo","Japan","Colombia","Miss",89.2,62.3
+24/06/2014,10,"Okubo","Japan","Colombia","Miss",74.3,64.8
+24/06/2014,14,"Uchida","Japan","Colombia","Blocked",69.4,32.8
+24/06/2014,15,"Hasebe","Japan","Colombia","Attempt Saved",73.8,69.9
+24/06/2014,17,"Cuadrado","Colombia","Japan","Goal",88.5,50
+24/06/2014,23,"Honda","Japan","Colombia","Blocked",78.9,25.9
+24/06/2014,26,"Kagawa","Japan","Colombia","Miss",88.2,69.4
+24/06/2014,26,"Kagawa","Japan","Colombia","Attempt Saved",80.6,60.2
+24/06/2014,26,"Yoshida","Japan","Colombia","Blocked",88.2,46
+24/06/2014,33,"Honda","Japan","Colombia","Miss",77.7,62.1
+24/06/2014,36,"Okubo","Japan","Colombia","Miss",92.2,56.4
+24/06/2014,38,"Quintero","Colombia","Japan","Miss",77.1,59
+24/06/2014,40,"Kagawa","Japan","Colombia","Blocked",84.2,61
+24/06/2014,42,"Martínez","Colombia","Japan","Miss",84.9,47.2
+24/06/2014,45,"Okazaki","Japan","Colombia","Goal",92.4,48.5
+24/06/2014,45,"Aoyama","Japan","Colombia","Blocked",78,40.3
+24/06/2014,50,"Ramos","Colombia","Japan","Blocked",88.6,43.1
+24/06/2014,50,"Rodríguez","Colombia","Japan","Blocked",78.3,58.4
+24/06/2014,54,"Carbonero","Colombia","Japan","Miss",97,46.3
+24/06/2014,55,"Martínez","Colombia","Japan","Goal",88.9,59.4
+24/06/2014,58,"Kagawa","Japan","Colombia","Miss",81.2,52.5
+24/06/2014,64,"Okazaki","Japan","Colombia","Miss",86.9,41.3
+24/06/2014,64,"Honda","Japan","Colombia","Attempt Saved",72.3,65.2
+24/06/2014,65,"Okubo","Japan","Colombia","Miss",92.6,49.6
+24/06/2014,69,"Kagawa","Japan","Colombia","Blocked",71.6,53
+24/06/2014,72,"Rodríguez","Colombia","Japan","Blocked",87.3,45.7
+24/06/2014,72,"Martínez","Colombia","Japan","Miss",85.7,61.8
+24/06/2014,74,"Konno","Japan","Colombia","Attempt Saved",79.6,72.1
+24/06/2014,77,"Nagatomo","Japan","Colombia","Attempt Saved",87.6,74.7
+24/06/2014,79,"Nagatomo","Japan","Colombia","Blocked",78,81.2
+24/06/2014,82,"Martínez","Colombia","Japan","Goal",88.4,37.4
+24/06/2014,84,"Kagawa","Japan","Colombia","Miss",90.7,68.5
+24/06/2014,89,"Rodríguez","Colombia","Japan","Goal",92.5,62
+24/06/2014,89,"Arias","Colombia","Japan","Miss",79.6,26.1
+24/06/2014,90,"Ramos","Colombia","Japan","Blocked",87.8,31.2
+24/06/2014,90,"Kakitani","Japan","Colombia","Attempt Saved",89.8,48.1
+24/06/2014,14,"Salpingidis","Greece","Ivory Coast","Attempt Saved",93.2,47.6
+24/06/2014,15,"Gervinho","Ivory Coast","Greece","Miss",87.2,32.2
+24/06/2014,33,"Holebas","Greece","Ivory Coast","Post",80.3,36.1
+24/06/2014,34,"Karagounis","Greece","Ivory Coast","Attempt Saved",80.5,62.7
+24/06/2014,41,"Boka","Ivory Coast","Greece","Miss",79.6,81.4
+24/06/2014,42,"Samaris","Greece","Ivory Coast","Goal",87.6,41.5
+24/06/2014,45,"Yaya Touré","Ivory Coast","Greece","Blocked",88.6,36.9
+24/06/2014,46,"Christodoulopoulos","Greece","Ivory Coast","Blocked",74.4,49.5
+24/06/2014,49,"Tioté","Ivory Coast","Greece","Attempt Saved",75.6,51.8
+24/06/2014,53,"Christodoulopoulos","Greece","Ivory Coast","Miss",86.6,37.5
+24/06/2014,57,"Yaya Touré","Ivory Coast","Greece","Blocked",78,60.9
+24/06/2014,58,"Salpingidis","Greece","Ivory Coast","Attempt Saved",82.4,26.3
+24/06/2014,63,"Karagounis","Greece","Ivory Coast","Blocked",79.2,42.8
+24/06/2014,63,"Torosidis","Greece","Ivory Coast","Miss",80.6,36.6
+24/06/2014,65,"Bony","Ivory Coast","Greece","Miss",75.5,28.5
+24/06/2014,67,"Kalou","Ivory Coast","Greece","Miss",87,76.7
+24/06/2014,68,"Karagounis","Greece","Ivory Coast","Post",71.3,39.1
+24/06/2014,71,"Christodoulopoulos","Greece","Ivory Coast","Miss",74,56.7
+24/06/2014,72,"Sol Bamba","Ivory Coast","Greece","Miss",93,40.2
+24/06/2014,74,"Bony","Ivory Coast","Greece","Goal",87.9,56.4
+24/06/2014,84,"Christodoulopoulos","Greece","Ivory Coast","Miss",74.9,48.3
+24/06/2014,84,"Kalou","Ivory Coast","Greece","Blocked",88.4,71.4
+24/06/2014,85,"Sio","Ivory Coast","Greece","Attempt Saved",92,52.6
+24/06/2014,90,"Touré","Ivory Coast","Greece","Miss",67,35.2
+24/06/2014,90,"Yaya Touré","Ivory Coast","Greece","Attempt Saved",95.7,31.5
+24/06/2014,90,"Samaras","Greece","Ivory Coast","Goal",88.5,50
+24/06/2014,2,"Cáceres","Uruguay","Italy","Attempt Saved",39.1,57.9
+24/06/2014,7,"González","Uruguay","Italy","Blocked",88.8,29.6
+24/06/2014,8,"González","Uruguay","Italy","Attempt Saved",90.7,46.6
+24/06/2014,12,"Pirlo","Italy","Uruguay","Attempt Saved",70.1,74.7
+24/06/2014,21,"Suárez","Uruguay","Italy","Blocked",64.3,66.8
+24/06/2014,23,"González","Uruguay","Italy","Miss",75.2,24.8
+24/06/2014,25,"Marchisio","Italy","Uruguay","Blocked",74.8,52.8
+24/06/2014,26,"Barzagli","Italy","Uruguay","Miss",74.5,34.2
+24/06/2014,27,"Balotelli","Italy","Uruguay","Miss",69.8,41
+24/06/2014,29,"Immobile","Italy","Uruguay","Miss",88.8,58.3
+24/06/2014,33,"Lodeiro","Uruguay","Italy","Attempt Saved",93.1,68.3
+24/06/2014,38,"Cáceres","Uruguay","Italy","Miss",32.4,64.7
+24/06/2014,55,"Parolo","Italy","Uruguay","Blocked",81.4,70.9
+24/06/2014,58,"Rodríguez","Uruguay","Italy","Miss",90.3,72.1
+24/06/2014,61,"Cavani","Uruguay","Italy","Miss",86.9,57.3
+24/06/2014,65,"Pirlo","Italy","Uruguay","Miss",73.4,34.9
+24/06/2014,66,"Suárez","Uruguay","Italy","Attempt Saved",87.3,49.7
+24/06/2014,66,"Cavani","Uruguay","Italy","Blocked",79,46.9
+24/06/2014,68,"Immobile","Italy","Uruguay","Blocked",91.7,33.1
+24/06/2014,77,"Suárez","Uruguay","Italy","Blocked",78.3,72.1
+24/06/2014,81,"Godín","Uruguay","Italy","Goal",92.9,53.1
+24/06/2014,85,"Pirlo","Italy","Uruguay","Blocked",68.8,63.1
+24/06/2014,90,"Suárez","Uruguay","Italy","Miss",60,11.8
+24/06/2014,2,"Campbell","Costa Rica","England","Miss",75.8,76.1
+24/06/2014,12,"Sturridge","England","Costa Rica","Miss",78.6,55.7
+24/06/2014,18,"Sturridge","England","Costa Rica","Miss",73.8,40.4
+24/06/2014,23,"Borges","Costa Rica","England","Attempt Saved",69,41.8
+24/06/2014,35,"Sturridge","England","Costa Rica","Miss",94.6,51.8
+24/06/2014,42,"Barkley","England","Costa Rica","Miss",86.6,66.8
+24/06/2014,45,"Brenes","Costa Rica","England","Blocked",84.3,65.2
+24/06/2014,49,"Shaw","England","Costa Rica","Blocked",74.9,40.6
+24/06/2014,61,"Lampard","England","Costa Rica","Blocked",75.6,63.3
+24/06/2014,62,"Christian Bolaños","Costa Rica","England","Attempt Saved",70,54.5
+24/06/2014,65,"Sturridge","England","Costa Rica","Miss",92.4,33.3
+24/06/2014,80,"Rooney","England","Costa Rica","Attempt Saved",75.8,43.7
+25/06/2014,3,"Shaqiri","Switzerland","Honduras","Attempt Saved",94.7,51.3
+25/06/2014,3,"Xhaka","Switzerland","Honduras","Blocked",91.2,48.2
+25/06/2014,4,"Wilson Palacios","Honduras","Switzerland","Miss",67.9,76.6
+25/06/2014,6,"Shaqiri","Switzerland","Honduras","Goal",76.5,35.3
+25/06/2014,9,"Juan Carlos García","Honduras","Switzerland","Miss",80,89.3
+25/06/2014,16,"Xhaka","Switzerland","Honduras","Blocked",71.5,47.5
+25/06/2014,20,"Shaqiri","Switzerland","Honduras","Miss",75.5,47
+25/06/2014,21,"Espinoza","Honduras","Switzerland","Blocked",79.7,76.3
+25/06/2014,22,"Beckeles","Honduras","Switzerland","Miss",90.1,55
+25/06/2014,31,"Shaqiri","Switzerland","Honduras","Goal",86.5,53
+25/06/2014,36,"Bengtson","Honduras","Switzerland","Miss",76.7,50.1
+25/06/2014,37,"Xhaka","Switzerland","Honduras","Miss",90.9,25.2
+25/06/2014,43,"Drmic","Switzerland","Honduras","Attempt Saved",94.2,70.1
+25/06/2014,45,"Drmic","Switzerland","Honduras","Attempt Saved",92.6,29.3
+25/06/2014,47,"Inler","Switzerland","Honduras","Miss",77,44
+25/06/2014,52,"Bengtson","Honduras","Switzerland","Blocked",96.4,59.4
+25/06/2014,57,"Drmic","Switzerland","Honduras","Attempt Saved",90.9,33.4
+25/06/2014,59,"Shaqiri","Switzerland","Honduras","Attempt Saved",95.9,43.7
+25/06/2014,62,"Beckeles","Honduras","Switzerland","Miss",82.2,25
+25/06/2014,69,"Shaqiri","Switzerland","Honduras","Blocked",76.8,47.4
+25/06/2014,71,"Shaqiri","Switzerland","Honduras","Goal",87.5,55.9
+25/06/2014,75,"Claros","Honduras","Switzerland","Blocked",73.2,30.9
+25/06/2014,76,"Figueroa","Honduras","Switzerland","Miss",91.9,64.4
+25/06/2014,78,"Najar","Honduras","Switzerland","Attempt Saved",87,32.4
+25/06/2014,80,"Bengtson","Honduras","Switzerland","Attempt Saved",91.9,49.9
+25/06/2014,82,"Mehmedi","Switzerland","Honduras","Attempt Saved",91.3,54.8
+25/06/2014,83,"Inler","Switzerland","Honduras","Attempt Saved",73.6,67.6
+25/06/2014,90,"Figueroa","Honduras","Switzerland","Attempt Saved",71.2,50.1
+25/06/2014,7,"Pogba","France","Ecuador","Blocked",73.7,37.3
+25/06/2014,11,"Griezmann","France","Ecuador","Miss",81.1,33.8
+25/06/2014,15,"Sissoko","France","Ecuador","Attempt Saved",84.3,28.1
+25/06/2014,22,"Enner Valencia","Ecuador","France","Miss",97.7,27.7
+25/06/2014,35,"Noboa","Ecuador","France","Blocked",76.6,33.6
+25/06/2014,38,"Pogba","France","Ecuador","Attempt Saved",91.2,45.2
+25/06/2014,41,"Enner Valencia","Ecuador","France","Attempt Saved",96.3,40.2
+25/06/2014,44,"Antonio Valencia","Ecuador","France","Blocked",72.4,37
+25/06/2014,44,"Benzema","France","Ecuador","Attempt Saved",79.1,65.3
+25/06/2014,47,"Griezmann","France","Ecuador","Attempt Saved",95.3,43.9
+25/06/2014,54,"Noboa","Ecuador","France","Miss",86.3,39.4
+25/06/2014,58,"Benzema","France","Ecuador","Blocked",94.3,66
+25/06/2014,58,"Pogba","France","Ecuador","Blocked",84,47.2
+25/06/2014,59,"Benzema","France","Ecuador","Miss",70.4,56.9
+25/06/2014,62,"Matuidi","France","Ecuador","Attempt Saved",85,55.9
+25/06/2014,63,"Sissoko","France","Ecuador","Miss",76.4,71.1
+25/06/2014,65,"Benzema","France","Ecuador","Blocked",80.3,54.8
+25/06/2014,69,"Arroyo","Ecuador","France","Miss",68.2,23.1
+25/06/2014,70,"Pogba","France","Ecuador","Miss",69.8,51.1
+25/06/2014,72,"Schneiderlin","France","Ecuador","Miss",74.8,52.4
+25/06/2014,73,"Ibarra","Ecuador","France","Blocked",73.1,49.3
+25/06/2014,73,"Pogba","France","Ecuador","Miss",96.3,56.5
+25/06/2014,78,"Benzema","France","Ecuador","Attempt Saved",78.1,70.3
+25/06/2014,81,"Arroyo","Ecuador","France","Miss",90.7,68
+25/06/2014,82,"Noboa","Ecuador","France","Blocked",73.1,52.2
+25/06/2014,82,"Ibarra","Ecuador","France","Attempt Saved",88.2,34.7
+25/06/2014,83,"Pogba","France","Ecuador","Blocked",80.1,67.2
+25/06/2014,84,"Benzema","France","Ecuador","Attempt Saved",87,56.9
+25/06/2014,87,"Remy","France","Ecuador","Attempt Saved",87.2,35.9
+25/06/2014,89,"Pogba","France","Ecuador","Miss",77.5,50.1
+25/06/2014,90,"Walter Ayoví","Ecuador","France","Blocked",80.5,39.2
+25/06/2014,90,"Caicedo","Ecuador","France","Blocked",90.9,41
+25/06/2014,90,"Giroud","France","Ecuador","Attempt Saved",93.4,51.8
+25/06/2014,3,"Messi","Argentina","Nigeria","Goal",88.4,57.5
+25/06/2014,3,"Di María","Argentina","Nigeria","Attempt Saved",89.2,67
+25/06/2014,4,"Musa","Nigeria","Argentina","Goal",88.9,69.3
+25/06/2014,9,"Di María","Argentina","Nigeria","Attempt Saved",69.9,63.5
+25/06/2014,9,"Higuaín","Argentina","Nigeria","Miss",94.6,65.5
+25/06/2014,21,"Onazi","Nigeria","Argentina","Blocked",71.1,47.4
+25/06/2014,27,"Odemwingie","Nigeria","Argentina","Miss",74.4,32.4
+25/06/2014,30,"Di María","Argentina","Nigeria","Attempt Saved",69.5,64.9
+25/06/2014,31,"Rojo","Argentina","Nigeria","Miss",95.5,57.6
+25/06/2014,32,"Agüero","Argentina","Nigeria","Blocked",89.3,32.8
+25/06/2014,39,"Federico Fernández","Argentina","Nigeria","Attempt Saved",89.3,44.3
+25/06/2014,44,"Messi","Argentina","Nigeria","Attempt Saved",72.7,27.7
+25/06/2014,45,"Messi","Argentina","Nigeria","Goal",72.7,38.6
+25/06/2014,47,"Musa","Nigeria","Argentina","Goal",87.5,57.9
+25/06/2014,50,"Rojo","Argentina","Nigeria","Goal",95.7,47.4
+25/06/2014,50,"Di María","Argentina","Nigeria","Attempt Saved",76.2,46.8
+25/06/2014,55,"Higuaín","Argentina","Nigeria","Attempt Saved",90.8,66.1
+25/06/2014,59,"Messi","Argentina","Nigeria","Miss",89.5,55.3
+25/06/2014,62,"Onazi","Nigeria","Argentina","Blocked",71.9,40.6
+25/06/2014,62,"Mikel","Nigeria","Argentina","Attempt Saved",92.5,66
+25/06/2014,74,"Musa","Nigeria","Argentina","Miss",84.7,48.1
+25/06/2014,78,"Lavezzi","Argentina","Nigeria","Attempt Saved",95.3,32.4
+25/06/2014,79,"Musa","Nigeria","Argentina","Blocked",87.3,61.8
+25/06/2014,80,"Garay","Argentina","Nigeria","Miss",89.8,42.7
+25/06/2014,82,"Uchebo","Nigeria","Argentina","Blocked",82.5,54.8
+25/06/2014,82,"Onazi","Nigeria","Argentina","Blocked",74.4,48.5
+25/06/2014,84,"Emenike","Nigeria","Argentina","Miss",78.4,27.3
+25/06/2014,85,"Di María","Argentina","Nigeria","Attempt Saved",88.8,69.7
+25/06/2014,87,"Efe Ambrose","Nigeria","Argentina","Blocked",88,27.4
+25/06/2014,90,"Mascherano","Argentina","Nigeria","Attempt Saved",73.4,50.6
+25/06/2014,4,"Dzeko","Bosnia and Herzegovina","Iran","Attempt Saved",91.3,34
+25/06/2014,9,"Dzeko","Bosnia and Herzegovina","Iran","Attempt Saved",89.3,45.6
+25/06/2014,12,"Pjanic","Bosnia and Herzegovina","Iran","Blocked",82.5,81.4
+25/06/2014,23,"Dzeko","Bosnia and Herzegovina","Iran","Goal",75.9,49.1
+25/06/2014,24,"Shojaei","Iran","Bosnia and Herzegovina","Blocked",86.7,33.2
+25/06/2014,31,"Hajsafi","Iran","Bosnia and Herzegovina","Blocked",68.1,43.3
+25/06/2014,42,"Vrsajevic","Bosnia and Herzegovina","Iran","Miss",91,32
+25/06/2014,43,"Ibisevic","Bosnia and Herzegovina","Iran","Miss",75.3,43.6
+25/06/2014,48,"Pjanic","Bosnia and Herzegovina","Iran","Miss",74.6,70.1
+25/06/2014,55,"Hajsafi","Iran","Bosnia and Herzegovina","Blocked",86,72.3
+25/06/2014,59,"Pjanic","Bosnia and Herzegovina","Iran","Goal",89.2,60
+25/06/2014,65,"Jahanbakhsh","Iran","Bosnia and Herzegovina","Attempt Saved",86.5,76.7
+25/06/2014,66,"Dzeko","Bosnia and Herzegovina","Iran","Blocked",86.5,52
+25/06/2014,77,"Susic","Bosnia and Herzegovina","Iran","Miss",75.1,55.3
+25/06/2014,81,"Ghoochannejhad","Iran","Bosnia and Herzegovina","Blocked",83.9,59
+25/06/2014,81,"Ghoochannejhad","Iran","Bosnia and Herzegovina","Blocked",84.1,66.6
+25/06/2014,82,"Ghoochannejhad","Iran","Bosnia and Herzegovina","Goal",97.2,43.9
+25/06/2014,83,"Vrsajevic","Bosnia and Herzegovina","Iran","Goal",90.9,30.5
+25/06/2014,89,"Visca","Bosnia and Herzegovina","Iran","Blocked",87.4,34.5
+26/06/2014,2,"Podolski","Germany","USA","Miss",84.8,64.1
+26/06/2014,10,"Kroos","Germany","USA","Blocked",78.9,34.5
+26/06/2014,19,"Beasley","USA","Germany","Miss",79.6,72.7
+26/06/2014,20,"Müller","Germany","USA","Attempt Saved",74.4,59.1
+26/06/2014,22,"Zusi","USA","Germany","Miss",80.6,72.6
+26/06/2014,31,"Kroos","Germany","USA","Attempt Saved",76.9,72.4
+26/06/2014,35,"Özil","Germany","USA","Attempt Saved",89.6,36.5
+26/06/2014,36,"Podolski","Germany","USA","Miss",92,52.8
+26/06/2014,47,"Özil","Germany","USA","Miss",95.3,51.3
+26/06/2014,47,"Schweinsteiger","Germany","USA","Miss",73.2,47.6
+26/06/2014,52,"Klose","Germany","USA","Miss",93.2,45.2
+26/06/2014,55,"Mertesacker","Germany","USA","Attempt Saved",89.5,44.9
+26/06/2014,55,"Müller","Germany","USA","Goal",82.4,66.6
+26/06/2014,80,"Höwedes","Germany","USA","Attempt Saved",80.2,68.2
+26/06/2014,90,"Dempsey","USA","Germany","Miss",96.7,43.7
+26/06/2014,90,"Bedoya","USA","Germany","Blocked",86.8,56
+26/06/2014,90,"Schürrle","Germany","USA","Blocked",92.9,72.1
+26/06/2014,10,"Atsu","Ghana","Portugal","Blocked",79.6,31
+26/06/2014,12,"Ronaldo","Portugal","Ghana","Attempt Saved",74.4,42.6
+26/06/2014,19,"Ronaldo","Portugal","Ghana","Attempt Saved",92,54.8
+26/06/2014,20,"Eder","Portugal","Ghana","Miss",90.3,54.7
+26/06/2014,20,"Gyan","Ghana","Portugal","Attempt Saved",88.6,46.4
+26/06/2014,23,"Gyan","Ghana","Portugal","Attempt Saved",93.3,62.1
+26/06/2014,30,"Boye","Portugal","Ghana","Goal",95,56.7
+26/06/2014,32,"Ronaldo","Portugal","Ghana","Attempt Saved",77.6,66.3
+26/06/2014,34,"Amorim","Portugal","Ghana","Miss",85.2,66.8
+26/06/2014,36,"Gyan","Ghana","Portugal","Miss",91.5,50.3
+26/06/2014,40,"Atsu","Ghana","Portugal","Miss",86.6,72.8
+26/06/2014,44,"Nani","Portugal","Ghana","Miss",76,37.2
+26/06/2014,48,"Nani","Portugal","Ghana","Blocked",75.3,68.8
+26/06/2014,51,"Gyan","Ghana","Portugal","Miss",77.9,67.1
+26/06/2014,54,"Nani","Portugal","Ghana","Blocked",81.9,62.7
+26/06/2014,57,"Gyan","Ghana","Portugal","Goal",93,39.8
+26/06/2014,58,"Ronaldo","Portugal","Ghana","Blocked",79.3,79.8
+26/06/2014,61,"Waris","Ghana","Portugal","Miss",93.5,48.5
+26/06/2014,66,"Atsu","Ghana","Portugal","Miss",73.5,30.9
+26/06/2014,68,"Asamoah","Ghana","Portugal","Miss",77.4,63.6
+26/06/2014,69,"Varela","Portugal","Ghana","Miss",73.9,64.5
+26/06/2014,76,"Gyan","Ghana","Portugal","Miss",85.4,51.8
+26/06/2014,76,"Badu","Ghana","Portugal","Miss",74.3,29
+26/06/2014,76,"Jordan Ayew","Ghana","Portugal","Blocked",79,24.5
+26/06/2014,80,"Ronaldo","Portugal","Ghana","Goal",91.2,55
+26/06/2014,82,"Ronaldo","Portugal","Ghana","Attempt Saved",86.3,59.6
+26/06/2014,82,"Wakaso","Ghana","Portugal","Miss",71.9,58.7
+26/06/2014,83,"Nani","Portugal","Ghana","Miss",92.6,58.7
+26/06/2014,84,"Varela","Portugal","Ghana","Attempt Saved",85.6,67.5
+26/06/2014,88,"Gyan","Ghana","Portugal","Attempt Saved",90.4,29.4
+26/06/2014,89,"Gyan","Ghana","Portugal","Miss",82.5,50.3
+26/06/2014,90,"Nani","Portugal","Ghana","Miss",73.6,65.5
+26/06/2014,90,"Ronaldo","Portugal","Ghana","Miss",96.1,46
+26/06/2014,90,"Moutinho","Portugal","Ghana","Miss",75,37.9
+26/06/2014,90,"Ronaldo","Portugal","Ghana","Attempt Saved",87,45.8
+26/06/2014,90,"Gyan","Ghana","Portugal","Miss",77.7,73.1
+26/06/2014,10,"Kim Young-Gwon","South Korea","Belgium","Miss",90.3,74.2
+26/06/2014,18,"Vertonghen","Belgium","South Korea","Miss",69.7,34.7
+26/06/2014,25,"Mirallas","Belgium","South Korea","Blocked",87.6,49.1
+26/06/2014,25,"Mertens","Belgium","South Korea","Miss",91.3,55.5
+26/06/2014,28,"Ki Sung-Yueng","South Korea","Belgium","Miss",74.8,80
+26/06/2014,30,"Ki Sung-Yueng","South Korea","Belgium","Attempt Saved",73.5,48
+26/06/2014,30,"Koo","South Korea","Belgium","Blocked",89,69.9
+26/06/2014,37,"Vertonghen","Belgium","South Korea","Blocked",79.2,25.6
+26/06/2014,42,"Mertens","Belgium","South Korea","Miss",73.6,63.1
+26/06/2014,45,"van Buyten","Belgium","South Korea","Miss",88.5,60.4
+26/06/2014,51,"Ki Sung-Yueng","South Korea","Belgium","Miss",73.1,46.9
+26/06/2014,52,"Lee Keun-Ho","South Korea","Belgium","Miss",91.5,52.6
+26/06/2014,54,"Lee Chung-Yong","South Korea","Belgium","Blocked",78.1,55.5
+26/06/2014,59,"Mertens","Belgium","South Korea","Attempt Saved",74.6,52.8
+26/06/2014,61,"Ki Sung-Yueng","South Korea","Belgium","Attempt Saved",90.7,49.8
+26/06/2014,68,"Fellaini","Belgium","South Korea","Miss",89.7,51.8
+26/06/2014,70,"Vertonghen","Belgium","South Korea","Miss",72.8,73.8
+26/06/2014,72,"Origi","Belgium","South Korea","Miss",90.6,52.2
+26/06/2014,73,"Chadli","Belgium","South Korea","Blocked",85.8,66.4
+26/06/2014,74,"Koo","South Korea","Belgium","Blocked",87.4,63.9
+26/06/2014,76,"Ki Sung-Yueng","South Korea","Belgium","Blocked",72,60.6
+26/06/2014,77,"Origi","Belgium","South Korea","Attempt Saved",78.2,56.5
+26/06/2014,77,"Vertonghen","Belgium","South Korea","Goal",92.7,58
+26/06/2014,80,"Lee Keun-Ho","South Korea","Belgium","Miss",91.5,57.7
+26/06/2014,82,"Koo","South Korea","Belgium","Blocked",70.8,69.6
+26/06/2014,83,"Ji","South Korea","Belgium","Blocked",84.6,46.4
+26/06/2014,90,"Lee Chung-Yong","South Korea","Belgium","Attempt Saved",73.5,22.3
+26/06/2014,90,"Koo","South Korea","Belgium","Blocked",88.6,34.7
+26/06/2014,90,"Lee Keun-Ho","South Korea","Belgium","Attempt Saved",97.7,38
+26/06/2014,90,"Hazard","Belgium","South Korea","Attempt Saved",93.3,30.7
+26/06/2014,90,"Origi","Belgium","South Korea","Attempt Saved",79.7,34.7
+26/06/2014,6,"Kokorin","Russia","Algeria","Goal",88.3,53.6
+26/06/2014,8,"Bentaleb","Algeria","Russia","Miss",75.2,71.3
+26/06/2014,19,"Kokorin","Russia","Algeria","Miss",93.4,28.3
+26/06/2014,24,"Kombarov","Russia","Algeria","Miss",84.4,66
+26/06/2014,26,"Shatov","Russia","Algeria","Miss",70.5,50.3
+26/06/2014,27,"Mesbah","Algeria","Russia","Attempt Saved",84.3,64.5
+26/06/2014,35,"Brahimi","Algeria","Russia","Attempt Saved",76.2,51.3
+26/06/2014,43,"Slimani","Algeria","Russia","Attempt Saved",92,45.8
+26/06/2014,45,"Belkalem","Algeria","Russia","Miss",86.2,53.8
+26/06/2014,47,"Samedov","Russia","Algeria","Attempt Saved",92.7,40.9
+26/06/2014,51,"Kerzhakov","Russia","Algeria","Miss",77,40.4
+26/06/2014,60,"Slimani","Algeria","Russia","Goal",95.2,46.4
+26/06/2014,62,"Denisov","Russia","Algeria","Attempt Saved",75,36.9
+26/06/2014,64,"Djabou","Algeria","Russia","Attempt Saved",77.9,59
+26/06/2014,70,"Kerzhakov","Russia","Algeria","Attempt Saved",87.8,28.3
+26/06/2014,71,"Kokorin","Russia","Algeria","Blocked",81.8,68.8
+26/06/2014,74,"Feghouli","Algeria","Russia","Attempt Saved",88.4,28.9
+28/06/2014,6,"Díaz","Chile","Brazil","Miss",71.7,50.3
+28/06/2014,6,"Marcelo","Brazil","Chile","Miss",75.5,60.2
+28/06/2014,18,"David Luiz","Brazil","Chile","Goal",97,47.6
+28/06/2014,26,"Neymar","Brazil","Chile","Miss",86.4,63.3
+28/06/2014,32,"Sánchez","Chile","Brazil","Goal",89.1,41.6
+28/06/2014,36,"Neymar","Brazil","Chile","Blocked",91.8,50.1
+28/06/2014,36,"Luiz Gustavo","Brazil","Chile","Blocked",81.6,49.9
+28/06/2014,39,"Fred","Brazil","Chile","Miss",91.2,50.1
+28/06/2014,42,"Dani Alves","Brazil","Chile","Attempt Saved",70.1,31.8
+28/06/2014,44,"Hulk","Brazil","Chile","Miss",73.3,63.4
+28/06/2014,44,"Fred","Brazil","Chile","Blocked",90.6,33.1
+28/06/2014,45,"Mena","Chile","Brazil","Miss",73.4,53.7
+28/06/2014,45,"Aránguiz","Chile","Brazil","Blocked",94.7,39.4
+28/06/2014,45,"Fred","Brazil","Chile","Miss",91.8,50.6
+28/06/2014,49,"Fernandinho","Brazil","Chile","Miss",73.2,44.3
+28/06/2014,64,"Aránguiz","Chile","Brazil","Attempt Saved",90.1,44.3
+28/06/2014,74,"Jô","Brazil","Chile","Miss",94.7,46.1
+28/06/2014,76,"Hulk","Brazil","Chile","Miss",75.8,78.1
+28/06/2014,81,"Neymar","Brazil","Chile","Attempt Saved",89.4,50
+28/06/2014,83,"Hulk","Brazil","Chile","Attempt Saved",89.1,36.6
+28/06/2014,90,"Aránguiz","Chile","Brazil","Blocked",86.3,45.8
+28/06/2014,90,"Díaz","Chile","Brazil","Miss",68.2,36.3
+28/06/2014,92,"Neymar","Brazil","Chile","Blocked",89.2,80.5
+28/06/2014,95,"Díaz","Chile","Brazil","Miss",63.4,32.7
+28/06/2014,100,"Jô","Brazil","Chile","Blocked",87.9,67.8
+28/06/2014,101,"Oscar","Brazil","Chile","Attempt Saved",88.8,64.8
+28/06/2014,103,"Hulk","Brazil","Chile","Attempt Saved",71.6,46.4
+28/06/2014,105,"Sánchez","Chile","Brazil","Miss",69.9,62.3
+28/06/2014,107,"Jô","Brazil","Chile","Miss",95,55.5
+28/06/2014,111,"Pinilla","Chile","Brazil","Miss",73.5,71.7
+28/06/2014,112,"Dani Alves","Brazil","Chile","Miss",71.5,36.6
+28/06/2014,113,"Díaz","Chile","Brazil","Miss",72.1,34.8
+28/06/2014,113,"Pinilla","Chile","Brazil","Blocked",71.1,73.9
+28/06/2014,119,"Hulk","Brazil","Chile","Miss",69,24.9
+28/06/2014,120,"Ramires","Brazil","Chile","Miss",77.9,64.2
+28/06/2014,120,"Pinilla","Chile","Brazil","Post",83.9,43.1
+28/06/2014,7,"Cuadrado","Colombia","Uruguay","Miss",67.4,48.9
+28/06/2014,12,"Zuñiga","Colombia","Uruguay","Attempt Saved",71.4,39.8
+28/06/2014,14,"Forlán","Uruguay","Colombia","Miss",69.1,43.9
+28/06/2014,19,"Cavani","Uruguay","Colombia","Miss",96.2,65.3
+28/06/2014,21,"Martínez","Colombia","Uruguay","Blocked",91.6,60.8
+28/06/2014,21,"Zapata","Colombia","Uruguay","Miss",92.9,68.2
+28/06/2014,23,"Zuñiga","Colombia","Uruguay","Miss",69.9,49.9
+28/06/2014,28,"Rodríguez","Colombia","Uruguay","Goal",76.1,47.6
+28/06/2014,32,"Cavani","Uruguay","Colombia","Blocked",80.1,50.1
+28/06/2014,33,"Cavani","Uruguay","Colombia","Miss",75.4,57.3
+28/06/2014,36,"Gutiérrez","Colombia","Uruguay","Attempt Saved",81.1,28.3
+28/06/2014,50,"Rodríguez","Colombia","Uruguay","Goal",94.4,50.7
+28/06/2014,52,"Cáceres","Uruguay","Colombia","Miss",74.6,81.4
+28/06/2014,56,"Rodríguez","Colombia","Uruguay","Blocked",75.2,45.5
+28/06/2014,59,"González","Uruguay","Colombia","Attempt Saved",74.5,41.2
+28/06/2014,59,"Arévalo Rios","Uruguay","Colombia","Blocked",72.4,59.6
+28/06/2014,64,"Rodríguez","Uruguay","Colombia","Attempt Saved",73.4,52.6
+28/06/2014,68,"Ramírez","Uruguay","Colombia","Blocked",74.1,38.6
+28/06/2014,68,"Rodríguez","Uruguay","Colombia","Blocked",89.2,36.5
+28/06/2014,69,"Cavani","Uruguay","Colombia","Miss",96.1,37.7
+28/06/2014,70,"Stuani","Uruguay","Colombia","Miss",93.2,46.2
+28/06/2014,75,"Giménez","Uruguay","Colombia","Miss",89.7,55.8
+28/06/2014,79,"Maxi Pereira","Uruguay","Colombia","Attempt Saved",95.7,42.5
+28/06/2014,84,"Cavani","Uruguay","Colombia","Attempt Saved",81.5,68.6
+28/06/2014,85,"Godín","Uruguay","Colombia","Miss",91.8,52.8
+29/06/2014,2,"Layún","Mexico","Holland","Miss",70.6,77
+29/06/2014,5,"Layún","Mexico","Holland","Miss",72.6,72.1
+29/06/2014,17,"Herrera","Mexico","Holland","Miss",85.7,48.8
+29/06/2014,24,"Salcido","Mexico","Holland","Attempt Saved",68,54.3
+29/06/2014,27,"van Persie","Holland","Mexico","Miss",93,34.7
+29/06/2014,28,"dos Santos","Mexico","Holland","Attempt Saved",79.4,35.1
+29/06/2014,42,"dos Santos","Mexico","Holland","Attempt Saved",96.3,32.8
+29/06/2014,48,"dos Santos","Mexico","Holland","Goal",74.3,53.3
+29/06/2014,51,"Márquez","Mexico","Holland","Miss",91,41.2
+29/06/2014,53,"Sneijder","Holland","Mexico","Blocked",74,39.7
+29/06/2014,54,"Blind","Holland","Mexico","Miss",72.2,47.2
+29/06/2014,56,"Peralta","Mexico","Holland","Attempt Saved",75.9,40.4
+29/06/2014,57,"de Vrij","Holland","Mexico","Attempt Saved",96.9,51.1
+29/06/2014,61,"Sneijder","Holland","Mexico","Blocked",82.1,53.7
+29/06/2014,65,"Blind","Holland","Mexico","Miss",69.4,46.2
+29/06/2014,72,"Sneijder","Holland","Mexico","Miss",76.9,62
+29/06/2014,74,"Robben","Holland","Mexico","Attempt Saved",94.3,32.2
+29/06/2014,75,"Vlaar","Holland","Mexico","Miss",92.5,49.3
+29/06/2014,79,"Salcido","Mexico","Holland","Miss",80.9,34.7
+29/06/2014,86,"Depay","Holland","Mexico","Blocked",77.1,75
+29/06/2014,88,"Sneijder","Holland","Mexico","Goal",85,53.8
+29/06/2014,90,"Depay","Holland","Mexico","Blocked",81.3,73.9
+29/06/2014,90,"Huntelaar","Holland","Mexico","Goal",88.5,50
+29/06/2014,2,"Christodoulopoulos","Greece","Costa Rica","Miss",75.3,50.6
+29/06/2014,5,"Gamboa","Costa Rica","Greece","Miss",79.1,26.5
+29/06/2014,8,"Christian Bolaños","Costa Rica","Greece","Miss",86.6,69.7
+29/06/2014,12,"Christodoulopoulos","Greece","Costa Rica","Miss",77.5,64.5
+29/06/2014,15,"Sokratis","Greece","Costa Rica","Miss",93.2,49.6
+29/06/2014,23,"Borges","Costa Rica","Greece","Miss",92.9,47.8
+29/06/2014,28,"Karagounis","Greece","Costa Rica","Attempt Saved",73.8,43.7
+29/06/2014,32,"Samaris","Greece","Costa Rica","Blocked",71.5,49.9
+29/06/2014,37,"Salpingidis","Greece","Costa Rica","Attempt Saved",94.3,45.7
+29/06/2014,45,"Samaris","Greece","Costa Rica","Blocked",75.2,27.7
+29/06/2014,47,"Samaras","Greece","Costa Rica","Attempt Saved",88.5,53.3
+29/06/2014,52,"Ruiz","Costa Rica","Greece","Goal",81.2,53.4
+29/06/2014,54,"Christian Bolaños","Costa Rica","Greece","Blocked",87.7,68.4
+29/06/2014,67,"Samaras","Greece","Costa Rica","Miss",86.5,47.2
+29/06/2014,69,"Christodoulopoulos","Greece","Costa Rica","Miss",86.6,44
+29/06/2014,80,"Karagounis","Greece","Costa Rica","Miss",72.8,50.1
+29/06/2014,82,"Manolas","Greece","Costa Rica","Miss",90.7,47.3
+29/06/2014,90,"Mitroglou","Greece","Costa Rica","Attempt Saved",88.3,45.5
+29/06/2014,90,"Sokratis","Greece","Costa Rica","Goal",91.7,49.1
+29/06/2014,90,"Gekas","Greece","Costa Rica","Attempt Saved",91.7,39.7
+29/06/2014,93,"Christodoulopoulos","Greece","Costa Rica","Miss",83.8,32.4
+29/06/2014,94,"Gekas","Greece","Costa Rica","Miss",92.1,49.6
+29/06/2014,95,"Karagounis","Greece","Costa Rica","Blocked",70.8,49.9
+29/06/2014,100,"Katsouranis","Greece","Costa Rica","Blocked",93.9,67.5
+29/06/2014,106,"Brenes","Costa Rica","Greece","Miss",86,29.5
+29/06/2014,110,"Gonzalez","Costa Rica","Greece","Miss",86.9,69.7
+29/06/2014,113,"Christodoulopoulos","Greece","Costa Rica","Attempt Saved",87.8,28.5
+29/06/2014,113,"Karagounis","Greece","Costa Rica","Miss",76.3,51.9
+29/06/2014,119,"Mitroglou","Greece","Costa Rica","Miss",80.1,61.7
+29/06/2014,120,"Mitroglou","Greece","Costa Rica","Attempt Saved",91,43.9
+30/06/2014,5,"Giroud","France","Nigeria","Miss",92.4,49.7
+30/06/2014,10,"Emenike","Nigeria","France","Blocked",78.9,37.1
+30/06/2014,15,"Giroud","France","Nigeria","Miss",82.3,53
+30/06/2014,17,"Emenike","Nigeria","France","Miss",75.4,48.4
+30/06/2014,22,"Pogba","France","Nigeria","Attempt Saved",89.6,45.2
+30/06/2014,24,"Oshaniwa","Nigeria","France","Blocked",89.3,42.7
+30/06/2014,24,"Onazi","Nigeria","France","Blocked",71.5,45.2
+30/06/2014,28,"Pogba","France","Nigeria","Blocked",71.1,41.5
+30/06/2014,30,"Odemwingie","Nigeria","France","Blocked",81.3,38.2
+30/06/2014,33,"Debuchy","France","Nigeria","Miss",92.4,24.1
+30/06/2014,40,"Debuchy","France","Nigeria","Miss",86.4,41.8
+30/06/2014,44,"Emenike","Nigeria","France","Attempt Saved",82.1,20
+30/06/2014,60,"Emenike","Nigeria","France","Miss",80.3,81.4
+30/06/2014,64,"Odemwingie","Nigeria","France","Attempt Saved",78.1,37
+30/06/2014,70,"Benzema","France","Nigeria","Attempt Saved",93.6,54.8
+30/06/2014,73,"Benzema","France","Nigeria","Miss",76.8,68.1
+30/06/2014,76,"Koscielny","France","Nigeria","Blocked",92.8,47
+30/06/2014,77,"Cabaye","France","Nigeria","Post",77.8,27.1
+30/06/2014,79,"Benzema","France","Nigeria","Attempt Saved",91,54
+30/06/2014,79,"Pogba","France","Nigeria","Goal",93.2,41.5
+30/06/2014,84,"Griezmann","France","Nigeria","Attempt Saved",90,71.4
+30/06/2014,85,"Moses","Nigeria","France","Blocked",88,72.1
+30/06/2014,90,"Yobo","France","Nigeria","Goal",95.3,45.8
+30/06/2014,9,"Slimani","Algeria","Germany","Attempt Saved",89.9,85.5
+30/06/2014,14,"Schweinsteiger","Germany","Algeria","Attempt Saved",72,59.6
+30/06/2014,18,"Ghoulam","Algeria","Germany","Miss",93.7,68.6
+30/06/2014,23,"Müller","Germany","Algeria","Miss",89.5,53.9
+30/06/2014,31,"Lahm","Germany","Algeria","Blocked",88.6,42.5
+30/06/2014,33,"Feghouli","Algeria","Germany","Miss",76.4,68.8
+30/06/2014,35,"Müller","Germany","Algeria","Miss",86.6,52
+30/06/2014,37,"Özil","Germany","Algeria","Attempt Saved",72.6,73.5
+30/06/2014,39,"Mostefa","Algeria","Germany","Blocked",72.3,50.9
+30/06/2014,41,"Kroos","Germany","Algeria","Attempt Saved",70.4,51.5
+30/06/2014,41,"Götze","Germany","Algeria","Attempt Saved",93.6,61.4
+30/06/2014,43,"Kroos","Germany","Algeria","Miss",70.2,48.7
+30/06/2014,48,"Schürrle","Germany","Algeria","Blocked",90.3,33.4
+30/06/2014,49,"Mustafi","Germany","Algeria","Attempt Saved",93.3,48.1
+30/06/2014,51,"Özil","Germany","Algeria","Miss",87.5,69
+30/06/2014,51,"Soudani","Algeria","Germany","Blocked",88.3,71.5
+30/06/2014,55,"Lahm","Germany","Algeria","Attempt Saved",77.1,41.5
+30/06/2014,60,"Schürrle","Germany","Algeria","Miss",75.2,19.5
+30/06/2014,73,"Schürrle","Germany","Algeria","Attempt Saved",78.2,81.6
+30/06/2014,74,"Feghouli","Algeria","Germany","Miss",81.6,20.7
+30/06/2014,75,"Slimani","Algeria","Germany","Attempt Saved",73.9,44.3
+30/06/2014,79,"Schweinsteiger","Germany","Algeria","Miss",93.2,38.9
+30/06/2014,80,"Schürrle","Germany","Algeria","Blocked",97.3,42.7
+30/06/2014,80,"Müller","Germany","Algeria","Attempt Saved",91.8,51.3
+30/06/2014,81,"Höwedes","Germany","Algeria","Miss",91,47.3
+30/06/2014,82,"Müller","Germany","Algeria","Miss",90.2,36.4
+30/06/2014,86,"Boateng","Germany","Algeria","Blocked",73,47
+30/06/2014,90,"Schweinsteiger","Germany","Algeria","Attempt Saved",92.5,54.2
+30/06/2014,92,"Schürrle","Germany","Algeria","Goal",94,52
+30/06/2014,95,"Müller","Germany","Algeria","Blocked",85.2,40.8
+30/06/2014,99,"Müller","Germany","Algeria","Miss",75.1,69.7
+30/06/2014,101,"Mostefa","Algeria","Germany","Miss",90.3,50.5
+30/06/2014,102,"Schürrle","Germany","Algeria","Blocked",88.9,40.1
+30/06/2014,117,"Kramer","Germany","Algeria","Attempt Saved",93.5,31
+30/06/2014,119,"Özil","Germany","Algeria","Goal",95.5,64.5
+30/06/2014,119,"Schürrle","Germany","Algeria","Blocked",87.3,43.9
+30/06/2014,120,"Bougherra","Algeria","Germany","Attempt Saved",91.5,41.2
+30/06/2014,120,"Djabou","Algeria","Germany","Goal",95.6,56.1
+01/07/2014,6,"Gago","Argentina","Switzerland","Miss",74,28.2
+01/07/2014,9,"Inler","Switzerland","Argentina","Miss",72.9,63.4
+01/07/2014,25,"Higuaín","Argentina","Switzerland","Miss",87,43.3
+01/07/2014,28,"Lichtsteiner","Switzerland","Argentina","Attempt Saved",74.2,40.2
+01/07/2014,28,"Xhaka","Switzerland","Argentina","Attempt Saved",87.5,47
+01/07/2014,29,"Lavezzi","Argentina","Switzerland","Attempt Saved",90.9,35.3
+01/07/2014,32,"Di María","Argentina","Switzerland","Blocked",87,31.4
+01/07/2014,39,"Drmic","Switzerland","Argentina","Attempt Saved",85.1,65.2
+01/07/2014,41,"Di María","Argentina","Switzerland","Attempt Saved",90.2,29.1
+01/07/2014,47,"Mascherano","Argentina","Switzerland","Blocked",73.5,62.7
+01/07/2014,47,"Higuaín","Argentina","Switzerland","Blocked",95,56.1
+01/07/2014,50,"Shaqiri","Switzerland","Argentina","Attempt Saved",72.8,13.7
+01/07/2014,51,"Drmic","Switzerland","Argentina","Miss",90.5,66.6
+01/07/2014,52,"Di María","Argentina","Switzerland","Blocked",76.2,59
+01/07/2014,52,"Di María","Argentina","Switzerland","Blocked",79.6,18.2
+01/07/2014,53,"Rodriguez","Switzerland","Argentina","Miss",68.6,71.4
+01/07/2014,62,"Higuaín","Argentina","Switzerland","Attempt Saved",90.3,54.2
+01/07/2014,62,"Di María","Argentina","Switzerland","Blocked",80.6,20.9
+01/07/2014,63,"Lavezzi","Argentina","Switzerland","Blocked",85.8,69.1
+01/07/2014,67,"Higuaín","Argentina","Switzerland","Miss",93.6,41.5
+01/07/2014,67,"Messi","Argentina","Switzerland","Miss",77.5,40
+01/07/2014,69,"Shaqiri","Switzerland","Argentina","Blocked",74.4,82.2
+01/07/2014,75,"Palacio","Argentina","Switzerland","Miss",90.5,46.7
+01/07/2014,76,"Gago","Argentina","Switzerland","Miss",69.5,38
+01/07/2014,78,"Messi","Argentina","Switzerland","Attempt Saved",87.3,59.2
+01/07/2014,84,"Di María","Argentina","Switzerland","Blocked",83,65.8
+01/07/2014,85,"Rojo","Argentina","Switzerland","Miss",78,71.2
+01/07/2014,90,"Garay","Argentina","Switzerland","Blocked",94.6,36.9
+01/07/2014,90,"Schär","Switzerland","Argentina","Miss",92.3,52.4
+01/07/2014,92,"Garay","Argentina","Switzerland","Attempt Saved",96.7,46
+01/07/2014,94,"Palacio","Argentina","Switzerland","Attempt Saved",89,43.1
+01/07/2014,97,"Shaqiri","Switzerland","Argentina","Miss",68.8,68.4
+01/07/2014,103,"Seferovic","Switzerland","Argentina","Blocked",72.2,58.1
+01/07/2014,105,"Di María","Argentina","Switzerland","Blocked",75.5,70.7
+01/07/2014,109,"Di María","Argentina","Switzerland","Attempt Saved",75.7,19.2
+01/07/2014,111,"Mascherano","Argentina","Switzerland","Blocked",72.2,55.9
+01/07/2014,112,"Di María","Argentina","Switzerland","Blocked",83.8,27.9
+01/07/2014,112,"Di María","Argentina","Switzerland","Miss",77.3,41.6
+01/07/2014,118,"Di María","Argentina","Switzerland","Goal",86.6,33.9
+01/07/2014,120,"Shaqiri","Switzerland","Argentina","Blocked",81.3,50
+01/07/2014,120,"Dzemaili","Switzerland","Argentina","Post",95.7,51.1
+01/07/2014,120,"Dzemaili","Switzerland","Argentina","Miss",96.9,53
+01/07/2014,120,"Benaglio","Switzerland","Argentina","Miss",92.9,56.3
+01/07/2014,120,"Di María","Argentina","Switzerland","Miss",57.8,86
+01/07/2014,1,"Origi","Belgium","USA","Attempt Saved",91.3,31.3
+01/07/2014,2,"De Bruyne","Belgium","USA","Blocked",77.2,61.2
+01/07/2014,21,"Dempsey","USA","Belgium","Attempt Saved",85.3,50.3
+01/07/2014,22,"Alderweireld","Belgium","USA","Miss",72.2,53
+01/07/2014,23,"De Bruyne","Belgium","USA","Miss",85.6,59.2
+01/07/2014,26,"Witsel","Belgium","USA","Blocked",73.6,42.2
+01/07/2014,29,"Hazard","Belgium","USA","Attempt Saved",73.2,63.7
+01/07/2014,30,"Origi","Belgium","USA","Blocked",86.8,69.7
+01/07/2014,33,"Jones","USA","Belgium","Miss",76.1,61.1
+01/07/2014,36,"Hazard","Belgium","USA","Blocked",78.3,57.8
+01/07/2014,41,"Zusi","USA","Belgium","Miss",87,42.8
+01/07/2014,45,"De Bruyne","Belgium","USA","Attempt Saved",75,53
+01/07/2014,47,"Mertens","Belgium","USA","Attempt Saved",90.1,38.9
+01/07/2014,50,"Alderweireld","Belgium","USA","Blocked",76.1,27.9
+01/07/2014,52,"Fellaini","Belgium","USA","Miss",68.9,43.7
+01/07/2014,56,"De Bruyne","Belgium","USA","Miss",78.1,59
+01/07/2014,56,"Origi","Belgium","USA","Post",87.6,45.2
+01/07/2014,57,"Vertonghen","Belgium","USA","Attempt Saved",95,70.6
+01/07/2014,57,"Vertonghen","Belgium","USA","Miss",87.9,75.6
+01/07/2014,58,"Zusi","USA","Belgium","Blocked",89.9,35.2
+01/07/2014,60,"Mertens","Belgium","USA","Miss",96.4,57.5
+01/07/2014,63,"De Bruyne","Belgium","USA","Blocked",77.6,55.1
+01/07/2014,64,"Vertonghen","Belgium","USA","Attempt Saved",74.3,64
+01/07/2014,65,"Witsel","Belgium","USA","Blocked",76.5,28
+01/07/2014,69,"Witsel","Belgium","USA","Miss",77.5,37.4
+01/07/2014,71,"Dempsey","USA","Belgium","Attempt Saved",75.9,34
+01/07/2014,71,"Origi","Belgium","USA","Attempt Saved",87.6,35.8
+01/07/2014,74,"Dempsey","USA","Belgium","Attempt Saved",72.6,51.2
+01/07/2014,76,"Mirallas","Belgium","USA","Attempt Saved",87.6,62.6
+01/07/2014,77,"Kompany","Belgium","USA","Miss",92.2,44.9
+01/07/2014,79,"Hazard","Belgium","USA","Attempt Saved",86.6,64
+01/07/2014,83,"van Buyten","Belgium","USA","Blocked",89.7,32.5
+01/07/2014,83,"van Buyten","Belgium","USA","Miss",88.6,46.8
+01/07/2014,85,"Origi","Belgium","USA","Attempt Saved",77.7,51.9
+01/07/2014,88,"Hazard","Belgium","USA","Miss",92.6,69.7
+01/07/2014,90,"Fellaini","Belgium","USA","Miss",96.3,53.6
+01/07/2014,90,"Wondolowski","USA","Belgium","Miss",92.6,47
+01/07/2014,90,"Kompany","Belgium","USA","Attempt Saved",89.3,55.2
+01/07/2014,91,"Jones","USA","Belgium","Miss",94.3,43.3
+01/07/2014,93,"De Bruyne","Belgium","USA","Goal",92.9,35.1
+01/07/2014,96,"Vertonghen","Belgium","USA","Blocked",85,56.1
+01/07/2014,97,"Lukaku","Belgium","USA","Attempt Saved",89.4,70.2
+01/07/2014,100,"Jones","USA","Belgium","Blocked",78.1,41.2
+01/07/2014,101,"Lukaku","Belgium","USA","Attempt Saved",89.2,68.2
+01/07/2014,104,"Mirallas","Belgium","USA","Attempt Saved",87.3,32.8
+01/07/2014,105,"Bradley","USA","Belgium","Blocked",72.6,42.7
+01/07/2014,105,"Lukaku","Belgium","USA","Goal",89.5,61.6
+01/07/2014,107,"Green","USA","Belgium","Goal",89,50.9
+01/07/2014,108,"Jones","USA","Belgium","Miss",89.3,52.2
+01/07/2014,108,"Fellaini","Belgium","USA","Miss",84.9,29.1
+01/07/2014,111,"Lukaku","Belgium","USA","Attempt Saved",91.5,61.2
+01/07/2014,113,"Jones","USA","Belgium","Blocked",75.9,34
+01/07/2014,114,"Dempsey","USA","Belgium","Attempt Saved",91.7,53
+01/07/2014,114,"Jones","USA","Belgium","Miss",90.5,47.3
+01/07/2014,118,"Jones","USA","Belgium","Miss",77.4,73.9
+01/07/2014,120,"Yedlin","USA","Belgium","Miss",96.1,28.9
+04/07/2014,4,"Neymar","Brazil","Colombia","Miss",71.4,53.8
+04/07/2014,7,"Thiago Silva","Brazil","Colombia","Goal",96.2,46
+04/07/2014,10,"Guarín","Colombia","Brazil","Miss",70.4,53.9
+04/07/2014,11,"Cuadrado","Colombia","Brazil","Blocked",79.6,29.7
+04/07/2014,20,"Marcelo","Brazil","Colombia","Blocked",71.8,53.4
+04/07/2014,20,"Oscar","Brazil","Colombia","Attempt Saved",77.2,42.1
+04/07/2014,20,"Hulk","Brazil","Colombia","Attempt Saved",91.5,66.8
+04/07/2014,27,"Fred","Brazil","Colombia","Miss",91.5,49.1
+04/07/2014,27,"Marcelo","Brazil","Colombia","Miss",82.6,68.8
+04/07/2014,28,"Hulk","Brazil","Colombia","Attempt Saved",92.6,66.8
+04/07/2014,30,"Cuadrado","Colombia","Brazil","Blocked",72.6,60.3
+04/07/2014,34,"Fernandinho","Brazil","Colombia","Miss",95.7,36
+04/07/2014,37,"Rodríguez","Colombia","Brazil","Blocked",81.7,44.5
+04/07/2014,39,"Hulk","Brazil","Colombia","Miss",91.5,72.8
+04/07/2014,44,"Neymar","Brazil","Colombia","Miss",78.3,68.5
+04/07/2014,59,"Guarín","Colombia","Brazil","Miss",80.8,42.5
+04/07/2014,62,"Zapata","Colombia","Brazil","Blocked",88.2,56
+04/07/2014,68,"David Luiz","Brazil","Colombia","Goal",70.4,54.4
+04/07/2014,73,"Neymar","Brazil","Colombia","Miss",77.4,30.1
+04/07/2014,75,"Cuadrado","Colombia","Brazil","Attempt Saved",79.1,71.8
+04/07/2014,80,"Rodríguez","Colombia","Brazil","Goal",88.5,50
+04/07/2014,89,"Bacca","Colombia","Brazil","Blocked",77.4,59.6
+04/07/2014,90,"Ramos","Colombia","Brazil","Miss",90.2,52.7
+04/07/2014,90,"Ramos","Colombia","Brazil","Miss",91.6,44.7
+04/07/2014,3,"Kroos","Germany","France","Blocked",82.8,49.5
+04/07/2014,7,"Benzema","France","Germany","Miss",88.5,60.8
+04/07/2014,12,"Hummels","Germany","France","Goal",91.3,49.1
+04/07/2014,30,"Höwedes","Germany","France","Blocked",92.6,45.2
+04/07/2014,34,"Valbuena","France","Germany","Attempt Saved",92.5,68.4
+04/07/2014,34,"Benzema","France","Germany","Blocked",95.8,51.3
+04/07/2014,34,"Benzema","France","Germany","Blocked",89.6,35.1
+04/07/2014,35,"Sakho","France","Germany","Miss",91.7,61.4
+04/07/2014,41,"Hummels","Germany","France","Blocked",88,54.2
+04/07/2014,42,"Benzema","France","Germany","Blocked",91.2,45.2
+04/07/2014,44,"Benzema","France","Germany","Attempt Saved",85.9,68
+04/07/2014,55,"Kroos","Germany","France","Miss",73.6,48.4
+04/07/2014,60,"Varane","France","Germany","Attempt Saved",87.5,47.4
+04/07/2014,69,"Müller","Germany","France","Miss",90.5,28.3
+04/07/2014,73,"Griezmann","France","Germany","Miss",77.8,20
+04/07/2014,73,"Schürrle","Germany","France","Attempt Saved",89.7,25.4
+04/07/2014,74,"Valbuena","France","Germany","Miss",85.3,71.5
+04/07/2014,76,"Benzema","France","Germany","Blocked",89.2,57.3
+04/07/2014,77,"Matuidi","France","Germany","Attempt Saved",96,67.8
+04/07/2014,82,"Schürrle","Germany","France","Attempt Saved",89.2,43.3
+04/07/2014,88,"Schürrle","Germany","France","Blocked",87.4,44.9
+04/07/2014,90,"Benzema","France","Germany","Attempt Saved",93.6,67.2
+05/07/2014,21,"van Persie","Holland","Costa Rica","Attempt Saved",89.1,61.5
+05/07/2014,22,"Sneijder","Holland","Costa Rica","Attempt Saved",82.3,53.8
+05/07/2014,29,"Depay","Holland","Costa Rica","Attempt Saved",90.5,69
+05/07/2014,34,"Acosta","Costa Rica","Holland","Miss",95.8,55.8
+05/07/2014,39,"Sneijder","Holland","Costa Rica","Attempt Saved",74.7,43.6
+05/07/2014,53,"Sneijder","Holland","Costa Rica","Miss",84,51.3
+05/07/2014,62,"Christian Bolaños","Costa Rica","Holland","Miss",71.6,33.3
+05/07/2014,65,"Gonzalez","Costa Rica","Holland","Miss",95.7,57.6
+05/07/2014,75,"Vlaar","Holland","Costa Rica","Miss",89.1,52.7
+05/07/2014,82,"Sneijder","Holland","Costa Rica","Post",81.7,76.9
+05/07/2014,84,"van Persie","Holland","Costa Rica","Attempt Saved",93.7,29.5
+05/07/2014,90,"van Persie","Holland","Costa Rica","Attempt Saved",83.6,18
+05/07/2014,90,"van Persie","Holland","Costa Rica","Blocked",93,34.2
+05/07/2014,94,"Vlaar","Holland","Costa Rica","Attempt Saved",90.9,50.1
+05/07/2014,102,"Robben","Holland","Costa Rica","Blocked",77.3,29.5
+05/07/2014,102,"Robben","Holland","Costa Rica","Blocked",85.6,34.5
+05/07/2014,103,"Robben","Holland","Costa Rica","Blocked",79.5,29.7
+05/07/2014,104,"Wijnaldum","Holland","Costa Rica","Blocked",74.5,50.7
+05/07/2014,109,"van Persie","Holland","Costa Rica","Miss",91.3,33
+05/07/2014,113,"Christian Bolaños","Costa Rica","Holland","Blocked",90.7,33.2
+05/07/2014,115,"Christian Bolaños","Costa Rica","Holland","Blocked",90,70.3
+05/07/2014,117,"Ureña","Costa Rica","Holland","Attempt Saved",90.3,35.3
+05/07/2014,117,"Robben","Holland","Costa Rica","Blocked",87.4,31.2
+05/07/2014,119,"Robben","Holland","Costa Rica","Blocked",87.9,40.2
+05/07/2014,119,"Sneijder","Holland","Costa Rica","Post",81.2,71.3
+05/07/2014,120,"Kuyt","Holland","Costa Rica","Blocked",77.4,33.8
+05/07/2014,4,"Di María","Argentina","Belgium","Blocked",81,25.8
+05/07/2014,6,"Di María","Argentina","Belgium","Blocked",71.9,43.1
+05/07/2014,8,"Higuaín","Argentina","Belgium","Goal",84.8,39.4
+05/07/2014,13,"De Bruyne","Belgium","Argentina","Miss",76,64.9
+05/07/2014,13,"Lavezzi","Argentina","Belgium","Blocked",84.3,71.2
+05/07/2014,18,"Kompany","Belgium","Argentina","Miss",96.4,60.8
+05/07/2014,26,"De Bruyne","Belgium","Argentina","Attempt Saved",72.8,46.3
+05/07/2014,28,"Di María","Argentina","Belgium","Blocked",84.8,35.7
+05/07/2014,40,"Messi","Argentina","Belgium","Miss",81.8,51.3
+05/07/2014,42,"Mirallas","Belgium","Argentina","Miss",88.5,53.1
+05/07/2014,51,"Higuaín","Argentina","Belgium","Blocked",88,70.7
+05/07/2014,55,"Higuaín","Argentina","Belgium","Post",85.5,31
+05/07/2014,61,"Fellaini","Belgium","Argentina","Miss",90.9,52.8
+05/07/2014,74,"Witsel","Belgium","Argentina","Blocked",69.4,54.8
+05/07/2014,76,"Mertens","Belgium","Argentina","Miss",75.1,78.2
+05/07/2014,77,"Lukaku","Belgium","Argentina","Blocked",73.4,41
+05/07/2014,85,"De Bruyne","Belgium","Argentina","Blocked",79.5,36.6
+05/07/2014,90,"Palacio","Argentina","Belgium","Miss",69.8,66.6
+05/07/2014,90,"Messi","Argentina","Belgium","Attempt Saved",82.8,48.2
+05/07/2014,90,"Witsel","Belgium","Argentina","Miss",77.7,50.7
+08/07/2014,3,"Marcelo","Brazil","Germany","Miss",75.8,66.6
+08/07/2014,8,"Khedira","Germany","Brazil","Blocked",88.3,44.7
+08/07/2014,11,"Müller","Germany","Brazil","Goal",92.5,56.3
+08/07/2014,21,"Klose","Germany","Brazil","Attempt Saved",80.3,34.5
+08/07/2014,23,"Klose","Germany","Brazil","Attempt Saved",88.9,48
+08/07/2014,23,"Klose","Germany","Brazil","Goal",91.9,45
+08/07/2014,24,"Kroos","Germany","Brazil","Goal",84.6,59
+08/07/2014,26,"Kroos","Germany","Brazil","Goal",90.5,48
+08/07/2014,29,"Khedira","Germany","Brazil","Goal",86.9,52.6
+08/07/2014,32,"Kroos","Germany","Brazil","Blocked",81.2,47
+08/07/2014,38,"Özil","Germany","Brazil","Miss",75.8,32.8
+08/07/2014,42,"Oscar","Brazil","Germany","Blocked",88.2,68.8
+08/07/2014,47,"Ramires","Brazil","Germany","Blocked",88.1,66.7
+08/07/2014,51,"Ramires","Brazil","Germany","Blocked",76.4,25.3
+08/07/2014,52,"Oscar","Brazil","Germany","Attempt Saved",90,43.1
+08/07/2014,53,"Paulinho","Brazil","Germany","Attempt Saved",94.6,63.9
+08/07/2014,53,"Paulinho","Brazil","Germany","Attempt Saved",89.9,65.8
+08/07/2014,53,"Marcelo","Brazil","Germany","Blocked",74.6,42.3
+08/07/2014,59,"Fred","Brazil","Germany","Attempt Saved",78.9,48.5
+08/07/2014,61,"Müller","Germany","Brazil","Attempt Saved",81.3,44.1
+08/07/2014,69,"Schürrle","Germany","Brazil","Goal",91.3,46.7
+08/07/2014,72,"Willian","Brazil","Germany","Miss",82.8,68.2
+08/07/2014,74,"Paulinho","Brazil","Germany","Attempt Saved",91.6,24.1
+08/07/2014,79,"Schürrle","Germany","Brazil","Goal",92.7,69.3
+08/07/2014,81,"Marcelo","Brazil","Germany","Miss",82.1,58.1
+08/07/2014,85,"Ramires","Brazil","Germany","Attempt Saved",75.6,38.5
+08/07/2014,89,"Oscar","Brazil","Germany","Miss",96.5,68.4
+08/07/2014,90,"Özil","Germany","Brazil","Miss",85.3,62.6
+08/07/2014,90,"Ramires","Brazil","Germany","Blocked",74.2,43.1
+08/07/2014,90,"Oscar","Brazil","Germany","Goal",87.3,52.2
+08/07/2014,90,"Bernard","Brazil","Germany","Miss",89,71.1
+08/07/2014,90,"David Luiz","Brazil","Germany","Attempt Saved",70.5,48.9
+09/07/2014,13,"Sneijder","Holland","Argentina","Miss",78.1,32.2
+09/07/2014,15,"Messi","Argentina","Holland","Attempt Saved",76.3,37.9
+09/07/2014,24,"Garay","Argentina","Holland","Miss",95,51.3
+09/07/2014,50,"Sneijder","Holland","Argentina","Miss",75.9,75.1
+09/07/2014,58,"Higuaín","Argentina","Holland","Blocked",93.2,47.8
+09/07/2014,71,"Lavezzi","Argentina","Holland","Blocked",86.6,71.5
+09/07/2014,75,"Higuaín","Argentina","Holland","Miss",92.7,42.5
+09/07/2014,84,"Rojo","Argentina","Holland","Attempt Saved",69.9,65.8
+09/07/2014,87,"Clasie","Holland","Argentina","Miss",72.8,46.4
+09/07/2014,90,"Robben","Holland","Argentina","Blocked",95.3,59.1
+09/07/2014,99,"Robben","Holland","Argentina","Attempt Saved",73.9,22.7
+09/07/2014,110,"de Vrij","Holland","Argentina","Miss",67.2,44.1
+09/07/2014,115,"Palacio","Argentina","Holland","Attempt Saved",88.3,56.1
+09/07/2014,117,"Maxi Rodríguez","Argentina","Holland","Attempt Saved",89.9,60.2
+09/07/2014,120,"Kuyt","Holland","Argentina","Blocked",85.2,46
